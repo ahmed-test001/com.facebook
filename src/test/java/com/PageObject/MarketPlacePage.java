@@ -37,8 +37,7 @@ public class MarketPlacePage {
 	@CacheLookup@FindBy(xpath="//span[contains(text(),'Publish')]")WebElement Publish;
 	@CacheLookup@FindBy(xpath="(//div[@aria-label='More'])[1]")WebElement MoreBtn;
 	@CacheLookup@FindBy(xpath="//div[@role='menu']/descendant::span[contains(text(),'Delete')]")WebElement DeletetBtn;
-	@CacheLookup@FindBy(xpath="(//div[@aria-label='Delete Listing' and contains(.,'Delete')]/descendant::span[text()='Delete'])[1]")WebElement DeletetConfirm;
-	
+	@CacheLookup@FindBy(xpath="(//div[@aria-label='Delete Listing' and contains(.,'Delete')]/descendant::span[text()='Delete'])[1]")WebElement DeletetConfirm;	
 	@CacheLookup By ListVerification = By.xpath("(//div[@class='tvmbv18p'])[1]/child::div/child::div");
 
 	public void createMrktPlList()

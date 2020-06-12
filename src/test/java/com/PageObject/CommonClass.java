@@ -45,9 +45,11 @@ public class CommonClass {
 		if (browser.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
 			driver = new ChromeDriver();
+			logger.info("Initializing ChromeDriver..");
 		} else if (browser.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", readconfig.getFireFoxPath());
 			driver = new FirefoxDriver();
+			logger.info("Initializing FireFoxDriver..");
 		}
 		js = (JavascriptExecutor) driver;
 		driver.manage().window().maximize();

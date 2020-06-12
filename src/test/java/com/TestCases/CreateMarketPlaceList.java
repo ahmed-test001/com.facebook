@@ -23,7 +23,7 @@ public class CreateMarketPlaceList extends CommonClass {
 	}
 
 	@Test
-	public void login() throws Exception {
+	public void createMrkPltList() throws Exception {
 		try {
 			lp.setEmail(username);
 			logger.info("User Name has been entered");
@@ -90,7 +90,8 @@ public class CreateMarketPlaceList extends CommonClass {
 			Assert.assertTrue(mp.VerifyTitle(Constants.itemTitle));
 			logger.info("Item has been deleted - Verified");
 		} catch (Exception e) {
-			captureScreen(driver, "Error");
+			captureScreen(driver, "createMrkPltList-Error");
+			Assert.assertTrue(false);
 			System.out.println(e.getMessage());
 			logger.info("Error Occure during execution. Please find the Error/Exception below \n"+e.getMessage());
 			Assert.fail(e.getMessage());

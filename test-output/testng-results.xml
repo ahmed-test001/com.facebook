@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test-1" duration-ms="80445" started-at="2020-06-10T19:51:18Z" finished-at="2020-06-10T19:52:38Z">
+  <suite name="Suit-1" duration-ms="96123" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:41:10Z">
     <groups>
     </groups>
-    <test name="MarketPlace" duration-ms="80445" started-at="2020-06-10T19:51:18Z" finished-at="2020-06-10T19:52:38Z">
+    <test name="MarketPlace" duration-ms="96123" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:41:10Z">
       <class name="com.TestCases.CreateMarketPlaceList">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="setup" is-config="true" duration-ms="7050" started-at="2020-06-10T19:51:18Z" finished-at="2020-06-10T19:51:25Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="setup" is-config="true" duration-ms="6535" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:39:40Z">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="init" is-config="true" duration-ms="42" started-at="2020-06-10T19:51:25Z" finished-at="2020-06-10T19:51:25Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="init" is-config="true" duration-ms="26" started-at="2020-06-12T21:39:40Z" finished-at="2020-06-12T21:39:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="login" duration-ms="73174" started-at="2020-06-10T19:51:25Z" finished-at="2020-06-10T19:52:38Z">
+        <test-method status="PASS" signature="createMrkPltList()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="createMrkPltList" duration-ms="85446" started-at="2020-06-12T21:39:40Z" finished-at="2020-06-12T21:41:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="tearDown" is-config="true" duration-ms="159" started-at="2020-06-10T19:52:38Z" finished-at="2020-06-10T19:52:38Z">
+        </test-method> <!-- createMrkPltList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="tearDown" is-config="true" duration-ms="4101" started-at="2020-06-12T21:41:06Z" finished-at="2020-06-12T21:41:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.TestCases.CreateMarketPlaceList -->
     </test> <!-- MarketPlace -->
-  </suite> <!-- Test-1 -->
+  </suite> <!-- Suit-1 -->
 </testng-results>

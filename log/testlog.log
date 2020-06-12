@@ -1,39 +1,591 @@
-2020-01-14 11:21:35,665 - Banking -INFO - URL is open
-2020-01-14 11:21:35,813 - Banking -INFO - Enter userName
-2020-01-14 11:21:36,049 - Banking -INFO - Enter PAssword
-2020-01-14 11:21:36,917 - Banking -INFO - Login test Passed
-2020-01-14 12:36:41,674 - Banking -INFO - URL is open
-2020-01-14 12:36:41,916 - Banking -INFO - Enter userName
-2020-01-14 12:36:41,986 - Banking -INFO - Enter PAssword
-2020-01-14 12:36:43,971 - Banking -INFO - Login test Passed
-2020-01-14 13:08:50,995 - Banking -INFO - Enter userName
-2020-01-14 13:08:51,095 - Banking -INFO - Enter PAssword
-2020-01-14 13:08:52,000 - Banking -INFO - Login test Passed
-2020-01-14 14:55:47,353 - Banking -INFO - Enter userName
-2020-01-14 14:55:47,379 - Banking -INFO - Enter PAssword
-2020-01-14 14:55:52,661 - Banking -INFO - Login test Passed
-2020-01-14 15:34:42,787 - Banking -INFO - Enter userName
-2020-01-14 15:34:42,813 - Banking -INFO - Enter PAssword
-2020-01-14 15:35:04,639 - Banking -INFO - Login test Passed
-2020-01-14 15:45:10,845 - Banking -INFO - Enter userName
-2020-01-14 15:45:10,871 - Banking -INFO - Enter PAssword
-2020-01-14 15:46:54,224 - Banking -INFO - Enter userName
-2020-01-14 15:46:54,287 - Banking -INFO - Enter PAssword
-2020-01-14 15:49:20,378 - Banking -INFO - Enter userName
-2020-01-14 15:49:20,435 - Banking -INFO - Enter PAssword
-2020-01-14 15:49:20,936 - Banking -INFO - Login test Passed
-2020-01-14 15:50:06,734 - Banking -INFO - Enter userName
-2020-01-14 15:50:06,788 - Banking -INFO - Enter PAssword
-2020-01-14 15:50:07,585 - Banking -INFO - Login test Passed
-2020-01-14 15:52:53,069 - Banking -INFO - Enter userName
-2020-01-14 15:52:53,129 - Banking -INFO - Enter PAssword
-2020-01-14 15:55:08,374 - Banking -INFO - Enter userName
-2020-01-14 15:55:08,453 - Banking -INFO - Enter PAssword
-2020-01-14 15:55:58,911 - Banking -INFO - Enter userName
-2020-01-14 15:55:58,973 - Banking -INFO - Enter PAssword
-2020-01-14 15:56:00,986 - Banking -INFO - Login test Passed
-2020-01-14 19:38:28,828 - Banking -INFO - Login Passed
-2020-01-14 19:38:41,507 - Banking -INFO - Login Passed
-2020-01-22 12:48:56,348 - Banking -INFO - Login Passed
-2020-01-22 12:49:08,217 - Banking -INFO - Login Passed
-2020-05-07 19:53:20,159 - Banking -INFO - Login Passed
+2020-06-12 14:49:32,940 - Facebook -INFO - User Name has been entered
+2020-06-12 14:49:33,041 - Facebook -INFO - Password has been entered
+2020-06-12 14:49:33,113 - Facebook -INFO - Logging in...
+2020-06-12 14:49:38,395 - Facebook -INFO - Clicking Market Place
+2020-06-12 14:49:43,531 - Facebook -INFO - Listing an item
+2020-06-12 14:49:43,999 - Facebook -INFO - Item for Sell
+2020-06-12 14:49:58,580 - Facebook -INFO - Adding Item Photo
+2020-06-12 14:49:59,027 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 14:49:59,214 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 14:50:01,356 - Facebook -INFO - Selecting Category
+2020-06-12 14:50:08,558 - Facebook -INFO - Setting condition for Item
+2020-06-12 14:50:13,084 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 14:50:20,445 - Facebook -INFO - Setting Location
+2020-06-12 14:50:23,675 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 14:50:28,738 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 14:50:28,739 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 14:50:28,794 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 14:50:34,938 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 14:54:01,605 - Facebook -INFO - User Name has been entered
+2020-06-12 14:54:01,707 - Facebook -INFO - Password has been entered
+2020-06-12 14:54:01,801 - Facebook -INFO - Logging in...
+2020-06-12 14:54:06,973 - Facebook -INFO - Clicking Market Place
+2020-06-12 14:54:12,076 - Facebook -INFO - Listing an item
+2020-06-12 14:54:12,610 - Facebook -INFO - Item for Sell
+2020-06-12 14:54:27,148 - Facebook -INFO - Adding Item Photo
+2020-06-12 14:54:27,551 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 14:54:27,697 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 14:54:29,810 - Facebook -INFO - Selecting Category
+2020-06-12 14:54:37,059 - Facebook -INFO - Setting condition for Item
+2020-06-12 14:54:41,414 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 14:54:48,784 - Facebook -INFO - Setting Location
+2020-06-12 14:54:52,006 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 14:55:07,868 - Facebook -INFO - Error Occure during execution. Please find the Error/Exception below 
+Index: 0, Size: 0
+2020-06-12 15:24:14,880 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:24:18,322 - Facebook -INFO - User Name has been entered
+2020-06-12 15:24:18,438 - Facebook -INFO - Password has been entered
+2020-06-12 15:24:18,521 - Facebook -INFO - Logging in...
+2020-06-12 15:24:24,851 - Facebook -INFO - Clicking Market Place
+2020-06-12 15:24:29,936 - Facebook -INFO - Listing an item
+2020-06-12 15:24:30,436 - Facebook -INFO - Item for Sell
+2020-06-12 15:24:44,985 - Facebook -INFO - Adding Item Photo
+2020-06-12 15:24:45,494 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 15:24:45,677 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 15:24:47,800 - Facebook -INFO - Selecting Category
+2020-06-12 15:24:55,038 - Facebook -INFO - Setting condition for Item
+2020-06-12 15:24:59,617 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 15:25:06,973 - Facebook -INFO - Setting Location
+2020-06-12 15:25:10,213 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 15:25:15,257 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 15:25:15,258 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 15:25:15,314 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 15:25:21,438 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 15:25:31,507 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 15:41:53,891 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:41:56,998 - Facebook -INFO - User Name has been entered
+2020-06-12 15:41:57,175 - Facebook -INFO - Password has been entered
+2020-06-12 15:41:57,249 - Facebook -INFO - Logging in...
+2020-06-12 15:42:02,323 - Facebook -INFO - Clicking Market Place
+2020-06-12 15:43:35,623 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:43:38,755 - Facebook -INFO - User Name has been entered
+2020-06-12 15:43:38,926 - Facebook -INFO - Password has been entered
+2020-06-12 15:43:38,993 - Facebook -INFO - Logging in...
+2020-06-12 15:43:44,021 - Facebook -INFO - Clicking Market Place
+2020-06-12 15:45:28,020 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:45:31,144 - Facebook -INFO - User Name has been entered
+2020-06-12 15:45:31,292 - Facebook -INFO - Password has been entered
+2020-06-12 15:45:31,361 - Facebook -INFO - Logging in...
+2020-06-12 15:47:01,759 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:47:04,834 - Facebook -INFO - User Name has been entered
+2020-06-12 15:47:04,985 - Facebook -INFO - Password has been entered
+2020-06-12 15:47:05,047 - Facebook -INFO - Logging in...
+2020-06-12 15:47:42,452 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:47:45,560 - Facebook -INFO - User Name has been entered
+2020-06-12 15:47:45,691 - Facebook -INFO - Password has been entered
+2020-06-12 15:47:45,757 - Facebook -INFO - Logging in...
+2020-06-12 15:47:50,861 - Facebook -INFO - Clicking Market Place
+2020-06-12 15:47:55,969 - Facebook -INFO - Listing an item
+2020-06-12 15:47:56,491 - Facebook -INFO - Item for Sell
+2020-06-12 15:48:11,096 - Facebook -INFO - Adding Item Photo
+2020-06-12 15:48:11,538 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 15:48:11,715 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 15:48:13,853 - Facebook -INFO - Selecting Category
+2020-06-12 15:48:21,063 - Facebook -INFO - Setting condition for Item
+2020-06-12 15:48:25,631 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 15:48:32,983 - Facebook -INFO - Setting Location
+2020-06-12 15:48:36,203 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 15:48:41,287 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 15:48:41,287 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 15:48:41,342 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 15:48:47,469 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 15:48:57,563 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 15:54:11,380 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:54:14,375 - Facebook -INFO - User Name has been entered
+2020-06-12 15:54:14,628 - Facebook -INFO - Password has been entered
+2020-06-12 15:54:14,700 - Facebook -INFO - Logging in...
+2020-06-12 15:56:22,948 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 15:56:25,873 - Facebook -INFO - User Name has been entered
+2020-06-12 15:56:25,954 - Facebook -INFO - Password has been entered
+2020-06-12 15:56:36,135 - Facebook -INFO - Logging in...
+2020-06-12 16:06:22,048 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:06:25,420 - Facebook -INFO - User Name has been entered
+2020-06-12 16:06:25,523 - Facebook -INFO - Password has been entered
+2020-06-12 16:06:25,608 - Facebook -INFO - Logging in...
+2020-06-12 16:06:30,807 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:19:00,854 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:19:04,052 - Facebook -INFO - User Name has been entered
+2020-06-12 16:19:04,203 - Facebook -INFO - Password has been entered
+2020-06-12 16:19:04,270 - Facebook -INFO - Logging in...
+2020-06-12 16:22:33,517 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:22:36,618 - Facebook -INFO - User Name has been entered
+2020-06-12 16:22:36,771 - Facebook -INFO - Password has been entered
+2020-06-12 16:22:36,842 - Facebook -INFO - Logging in...
+2020-06-12 16:26:51,838 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:26:54,937 - Facebook -INFO - User Name has been entered
+2020-06-12 16:26:55,096 - Facebook -INFO - Password has been entered
+2020-06-12 16:26:55,159 - Facebook -INFO - Logging in...
+2020-06-12 16:27:00,373 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:27:05,484 - Facebook -INFO - Listing an item
+2020-06-12 16:27:06,011 - Facebook -INFO - Item for Sell
+2020-06-12 16:27:20,575 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:27:20,997 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:27:21,185 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:27:23,292 - Facebook -INFO - Selecting Category
+2020-06-12 16:27:30,507 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:27:35,053 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:27:42,393 - Facebook -INFO - Setting Location
+2020-06-12 16:27:45,629 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:27:50,697 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:27:50,698 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:27:50,753 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:27:56,913 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:28:06,933 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 16:29:18,858 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:29:21,958 - Facebook -INFO - User Name has been entered
+2020-06-12 16:29:22,112 - Facebook -INFO - Password has been entered
+2020-06-12 16:29:22,230 - Facebook -INFO - Logging in...
+2020-06-12 16:29:27,607 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:29:32,719 - Facebook -INFO - Listing an item
+2020-06-12 16:29:33,253 - Facebook -INFO - Item for Sell
+2020-06-12 16:29:48,028 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:29:48,484 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:29:48,660 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:29:50,785 - Facebook -INFO - Selecting Category
+2020-06-12 16:29:57,978 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:30:02,578 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:30:09,933 - Facebook -INFO - Setting Location
+2020-06-12 16:30:13,189 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:30:18,238 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:30:18,239 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:30:18,293 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:30:24,435 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:30:34,455 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 16:31:16,855 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:31:20,051 - Facebook -INFO - User Name has been entered
+2020-06-12 16:31:20,195 - Facebook -INFO - Password has been entered
+2020-06-12 16:31:20,267 - Facebook -INFO - Logging in...
+2020-06-12 16:31:25,456 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:34:43,392 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:34:46,504 - Facebook -INFO - User Name has been entered
+2020-06-12 16:34:46,643 - Facebook -INFO - Password has been entered
+2020-06-12 16:34:46,735 - Facebook -INFO - Logging in...
+2020-06-12 16:34:51,849 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:34:56,977 - Facebook -INFO - Listing an item
+2020-06-12 16:34:57,389 - Facebook -INFO - Item for Sell
+2020-06-12 16:35:12,002 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:35:12,397 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:35:12,574 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:35:14,723 - Facebook -INFO - Selecting Category
+2020-06-12 16:35:21,892 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:35:26,452 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:35:33,789 - Facebook -INFO - Setting Location
+2020-06-12 16:35:37,052 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:35:42,101 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:35:42,102 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:35:42,160 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:35:48,321 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:37:09,067 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:37:12,139 - Facebook -INFO - User Name has been entered
+2020-06-12 16:37:12,319 - Facebook -INFO - Password has been entered
+2020-06-12 16:37:12,390 - Facebook -INFO - Logging in...
+2020-06-12 16:37:17,498 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:37:22,602 - Facebook -INFO - Listing an item
+2020-06-12 16:37:23,055 - Facebook -INFO - Item for Sell
+2020-06-12 16:37:37,665 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:37:38,117 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:37:38,307 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:37:40,461 - Facebook -INFO - Selecting Category
+2020-06-12 16:37:47,657 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:37:52,236 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:37:59,624 - Facebook -INFO - Setting Location
+2020-06-12 16:38:02,842 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:38:07,895 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:38:07,896 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:38:07,951 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:38:14,095 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:39:55,241 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:39:58,505 - Facebook -INFO - User Name has been entered
+2020-06-12 16:39:58,639 - Facebook -INFO - Password has been entered
+2020-06-12 16:39:58,726 - Facebook -INFO - Logging in...
+2020-06-12 16:40:03,853 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:40:08,992 - Facebook -INFO - Listing an item
+2020-06-12 16:40:09,524 - Facebook -INFO - Item for Sell
+2020-06-12 16:40:27,350 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:40:27,774 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:40:27,959 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:40:30,099 - Facebook -INFO - Selecting Category
+2020-06-12 16:40:37,294 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:40:41,791 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:40:49,258 - Facebook -INFO - Setting Location
+2020-06-12 16:40:52,484 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:40:57,562 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:40:57,563 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:40:57,628 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:41:03,749 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:46:23,889 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:46:27,042 - Facebook -INFO - User Name has been entered
+2020-06-12 16:46:27,220 - Facebook -INFO - Password has been entered
+2020-06-12 16:46:27,289 - Facebook -INFO - Logging in...
+2020-06-12 16:46:32,628 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:46:37,739 - Facebook -INFO - Listing an item
+2020-06-12 16:46:38,217 - Facebook -INFO - Item for Sell
+2020-06-12 16:46:52,838 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:46:53,335 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:46:53,512 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:46:55,653 - Facebook -INFO - Selecting Category
+2020-06-12 16:47:02,919 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:47:07,776 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:47:15,145 - Facebook -INFO - Setting Location
+2020-06-12 16:47:18,502 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:47:23,561 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:47:23,561 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:47:23,618 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:47:29,765 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:48:53,394 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:48:56,459 - Facebook -INFO - User Name has been entered
+2020-06-12 16:48:56,629 - Facebook -INFO - Password has been entered
+2020-06-12 16:48:56,699 - Facebook -INFO - Logging in...
+2020-06-12 16:50:16,423 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:50:19,512 - Facebook -INFO - User Name has been entered
+2020-06-12 16:50:19,656 - Facebook -INFO - Password has been entered
+2020-06-12 16:50:19,725 - Facebook -INFO - Logging in...
+2020-06-12 16:51:05,528 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:51:08,615 - Facebook -INFO - User Name has been entered
+2020-06-12 16:51:08,768 - Facebook -INFO - Password has been entered
+2020-06-12 16:51:09,691 - Facebook -INFO - Logging in...
+2020-06-12 16:51:14,805 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:51:19,909 - Facebook -INFO - Listing an item
+2020-06-12 16:51:20,396 - Facebook -INFO - Item for Sell
+2020-06-12 16:51:35,048 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:51:35,483 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:51:35,676 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:51:37,803 - Facebook -INFO - Selecting Category
+2020-06-12 16:51:45,015 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:51:49,566 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:51:56,955 - Facebook -INFO - Setting Location
+2020-06-12 16:52:00,207 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:52:05,254 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:52:05,255 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:52:05,309 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:52:11,420 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:53:18,649 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 16:53:21,661 - Facebook -INFO - User Name has been entered
+2020-06-12 16:53:21,829 - Facebook -INFO - Password has been entered
+2020-06-12 16:53:21,904 - Facebook -INFO - Logging in...
+2020-06-12 16:53:27,203 - Facebook -INFO - Clicking Market Place
+2020-06-12 16:53:32,329 - Facebook -INFO - Listing an item
+2020-06-12 16:53:32,817 - Facebook -INFO - Item for Sell
+2020-06-12 16:53:47,554 - Facebook -INFO - Adding Item Photo
+2020-06-12 16:53:47,983 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 16:53:48,175 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 16:53:50,295 - Facebook -INFO - Selecting Category
+2020-06-12 16:53:57,518 - Facebook -INFO - Setting condition for Item
+2020-06-12 16:54:02,112 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 16:54:09,476 - Facebook -INFO - Setting Location
+2020-06-12 16:54:12,710 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 16:54:17,762 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 16:54:17,762 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 16:54:17,815 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 16:54:23,978 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 16:54:23,979 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:00:10,588 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:00:13,691 - Facebook -INFO - User Name has been entered
+2020-06-12 17:00:13,803 - Facebook -INFO - Password has been entered
+2020-06-12 17:00:13,875 - Facebook -INFO - Logging in...
+2020-06-12 17:00:19,285 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:00:24,407 - Facebook -INFO - Listing an item
+2020-06-12 17:00:24,929 - Facebook -INFO - Item for Sell
+2020-06-12 17:00:39,431 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:00:39,921 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:00:40,124 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:00:42,249 - Facebook -INFO - Selecting Category
+2020-06-12 17:00:49,451 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:00:54,281 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:01:01,743 - Facebook -INFO - Setting Location
+2020-06-12 17:01:04,940 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:01:49,125 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:01:52,249 - Facebook -INFO - User Name has been entered
+2020-06-12 17:01:52,396 - Facebook -INFO - Password has been entered
+2020-06-12 17:01:52,462 - Facebook -INFO - Logging in...
+2020-06-12 17:01:58,007 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:02:03,141 - Facebook -INFO - Listing an item
+2020-06-12 17:02:03,705 - Facebook -INFO - Item for Sell
+2020-06-12 17:02:18,275 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:02:18,719 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:02:18,872 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:02:21,045 - Facebook -INFO - Selecting Category
+2020-06-12 17:02:28,248 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:02:32,888 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:02:40,344 - Facebook -INFO - Setting Location
+2020-06-12 17:02:43,637 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:02:48,680 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:02:48,681 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:04:12,001 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:04:15,273 - Facebook -INFO - User Name has been entered
+2020-06-12 17:04:15,391 - Facebook -INFO - Password has been entered
+2020-06-12 17:04:15,475 - Facebook -INFO - Logging in...
+2020-06-12 17:04:20,849 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:04:25,936 - Facebook -INFO - Listing an item
+2020-06-12 17:04:26,481 - Facebook -INFO - Item for Sell
+2020-06-12 17:04:41,033 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:04:41,456 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:04:41,616 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:04:43,753 - Facebook -INFO - Selecting Category
+2020-06-12 17:04:50,951 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:04:55,590 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:05:03,097 - Facebook -INFO - Setting Location
+2020-06-12 17:05:06,387 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:05:11,438 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:05:11,439 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:06:32,745 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:06:36,181 - Facebook -INFO - User Name has been entered
+2020-06-12 17:06:36,335 - Facebook -INFO - Password has been entered
+2020-06-12 17:06:36,402 - Facebook -INFO - Logging in...
+2020-06-12 17:06:41,661 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:06:46,751 - Facebook -INFO - Listing an item
+2020-06-12 17:06:47,205 - Facebook -INFO - Item for Sell
+2020-06-12 17:07:01,779 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:07:02,283 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:07:02,460 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:07:04,571 - Facebook -INFO - Selecting Category
+2020-06-12 17:07:11,837 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:07:16,557 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:07:23,997 - Facebook -INFO - Setting Location
+2020-06-12 17:07:27,216 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:07:32,290 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:07:32,291 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:07:32,349 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:07:38,502 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:07:38,535 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:09:24,397 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:09:27,540 - Facebook -INFO - User Name has been entered
+2020-06-12 17:09:27,709 - Facebook -INFO - Password has been entered
+2020-06-12 17:09:27,775 - Facebook -INFO - Logging in...
+2020-06-12 17:09:33,000 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:09:38,094 - Facebook -INFO - Listing an item
+2020-06-12 17:09:38,439 - Facebook -INFO - Item for Sell
+2020-06-12 17:09:53,019 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:09:53,515 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:09:53,679 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:09:55,813 - Facebook -INFO - Selecting Category
+2020-06-12 17:10:03,092 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:10:07,882 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:10:15,285 - Facebook -INFO - Setting Location
+2020-06-12 17:10:18,543 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:10:23,618 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:10:23,619 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:10:23,677 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:10:29,778 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:12:15,426 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:12:18,734 - Facebook -INFO - User Name has been entered
+2020-06-12 17:12:18,863 - Facebook -INFO - Password has been entered
+2020-06-12 17:12:18,932 - Facebook -INFO - Logging in...
+2020-06-12 17:12:28,810 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:12:33,912 - Facebook -INFO - Listing an item
+2020-06-12 17:12:34,414 - Facebook -INFO - Item for Sell
+2020-06-12 17:12:49,236 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:12:49,722 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:12:49,886 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:12:52,027 - Facebook -INFO - Selecting Category
+2020-06-12 17:12:59,306 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:13:04,104 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:13:11,559 - Facebook -INFO - Setting Location
+2020-06-12 17:13:14,847 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:13:19,902 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:13:19,903 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:17:53,621 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:17:56,964 - Facebook -INFO - User Name has been entered
+2020-06-12 17:17:57,185 - Facebook -INFO - Password has been entered
+2020-06-12 17:17:57,263 - Facebook -INFO - Logging in...
+2020-06-12 17:18:02,502 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:18:07,586 - Facebook -INFO - Listing an item
+2020-06-12 17:18:08,122 - Facebook -INFO - Item for Sell
+2020-06-12 17:18:22,953 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:18:23,373 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:18:23,575 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:18:25,709 - Facebook -INFO - Selecting Category
+2020-06-12 17:18:32,898 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:18:37,502 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:18:44,911 - Facebook -INFO - Setting Location
+2020-06-12 17:18:48,152 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:18:53,206 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:18:53,207 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:18:53,269 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:18:59,394 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:19:31,845 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:19:35,166 - Facebook -INFO - User Name has been entered
+2020-06-12 17:19:35,304 - Facebook -INFO - Password has been entered
+2020-06-12 17:19:35,408 - Facebook -INFO - Logging in...
+2020-06-12 17:19:40,695 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:19:45,813 - Facebook -INFO - Listing an item
+2020-06-12 17:19:46,330 - Facebook -INFO - Item for Sell
+2020-06-12 17:20:01,281 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:20:01,690 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:20:01,869 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:20:04,002 - Facebook -INFO - Selecting Category
+2020-06-12 17:20:11,150 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:20:15,768 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:20:23,125 - Facebook -INFO - Setting Location
+2020-06-12 17:20:26,336 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:20:31,388 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:20:31,389 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:20:31,441 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:20:37,566 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:25:45,724 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:25:49,044 - Facebook -INFO - User Name has been entered
+2020-06-12 17:25:49,387 - Facebook -INFO - Password has been entered
+2020-06-12 17:25:49,471 - Facebook -INFO - Logging in...
+2020-06-12 17:25:54,622 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:25:59,705 - Facebook -INFO - Listing an item
+2020-06-12 17:26:00,195 - Facebook -INFO - Item for Sell
+2020-06-12 17:26:14,830 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:26:15,272 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:26:15,445 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:26:17,590 - Facebook -INFO - Selecting Category
+2020-06-12 17:26:24,755 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:26:30,206 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:26:37,560 - Facebook -INFO - Setting Location
+2020-06-12 17:26:40,812 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:26:45,865 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:26:45,866 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:26:45,922 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:26:52,036 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:26:52,092 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:32:57,689 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:33:00,805 - Facebook -INFO - User Name has been entered
+2020-06-12 17:33:00,959 - Facebook -INFO - Password has been entered
+2020-06-12 17:33:01,021 - Facebook -INFO - Logging in...
+2020-06-12 17:33:06,162 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:33:11,260 - Facebook -INFO - Listing an item
+2020-06-12 17:33:11,723 - Facebook -INFO - Item for Sell
+2020-06-12 17:33:26,414 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:33:26,854 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:33:27,025 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:33:29,156 - Facebook -INFO - Selecting Category
+2020-06-12 17:33:36,352 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:33:40,953 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:33:48,327 - Facebook -INFO - Setting Location
+2020-06-12 17:33:51,556 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:33:56,608 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:33:56,609 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:33:56,664 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:34:02,792 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:34:12,849 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:34:33,081 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:34:36,215 - Facebook -INFO - User Name has been entered
+2020-06-12 17:34:36,375 - Facebook -INFO - Password has been entered
+2020-06-12 17:34:36,449 - Facebook -INFO - Logging in...
+2020-06-12 17:34:41,642 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:34:46,748 - Facebook -INFO - Listing an item
+2020-06-12 17:34:47,301 - Facebook -INFO - Item for Sell
+2020-06-12 17:35:02,013 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:35:02,446 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:35:02,655 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:35:04,792 - Facebook -INFO - Selecting Category
+2020-06-12 17:35:11,985 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:35:16,576 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:35:23,953 - Facebook -INFO - Setting Location
+2020-06-12 17:35:27,196 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:35:32,249 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:35:32,250 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:35:32,301 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:35:38,430 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:36:22,519 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:36:26,234 - Facebook -INFO - User Name has been entered
+2020-06-12 17:36:26,317 - Facebook -INFO - Password has been entered
+2020-06-12 17:36:26,391 - Facebook -INFO - Logging in...
+2020-06-12 17:36:31,813 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:36:36,908 - Facebook -INFO - Listing an item
+2020-06-12 17:36:37,450 - Facebook -INFO - Item for Sell
+2020-06-12 17:36:52,082 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:36:52,533 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:36:52,709 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:36:54,855 - Facebook -INFO - Selecting Category
+2020-06-12 17:37:02,090 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:37:06,662 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:37:14,025 - Facebook -INFO - Setting Location
+2020-06-12 17:37:17,254 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:37:22,326 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:37:22,327 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:37:22,380 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:37:28,510 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:37:38,585 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:38:02,975 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:38:06,342 - Facebook -INFO - User Name has been entered
+2020-06-12 17:38:06,482 - Facebook -INFO - Password has been entered
+2020-06-12 17:38:06,552 - Facebook -INFO - Logging in...
+2020-06-12 17:38:11,767 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:38:16,879 - Facebook -INFO - Listing an item
+2020-06-12 17:38:17,394 - Facebook -INFO - Item for Sell
+2020-06-12 17:38:31,958 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:38:32,421 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:38:32,605 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:38:34,714 - Facebook -INFO - Selecting Category
+2020-06-12 17:38:41,878 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:38:46,426 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:38:53,830 - Facebook -INFO - Setting Location
+2020-06-12 17:38:57,076 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:39:02,122 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:39:02,123 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:39:02,179 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:39:08,300 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:39:18,362 - Facebook -INFO - Item has been deleted - Verified
+2020-06-12 17:39:37,905 - Facebook -INFO - Initializing ChromeDriver..
+2020-06-12 17:39:40,893 - Facebook -INFO - User Name has been entered
+2020-06-12 17:39:40,978 - Facebook -INFO - Password has been entered
+2020-06-12 17:39:54,605 - Facebook -INFO - Logging in...
+2020-06-12 17:39:59,744 - Facebook -INFO - Clicking Market Place
+2020-06-12 17:40:04,833 - Facebook -INFO - Listing an item
+2020-06-12 17:40:05,252 - Facebook -INFO - Item for Sell
+2020-06-12 17:40:19,772 - Facebook -INFO - Adding Item Photo
+2020-06-12 17:40:20,277 - Facebook -INFO - Setting Item title as : Jordan Shoe 9
+2020-06-12 17:40:20,443 - Facebook -INFO - Setting Item price as : 420
+2020-06-12 17:40:22,560 - Facebook -INFO - Selecting Category
+2020-06-12 17:40:29,751 - Facebook -INFO - Setting condition for Item
+2020-06-12 17:40:34,317 - Facebook -INFO - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-12 17:40:41,751 - Facebook -INFO - Setting Location
+2020-06-12 17:40:45,004 - Facebook -INFO - Publishing Listing in Market place .......
+2020-06-12 17:40:50,055 - Facebook -INFO - Verifying item title and price 
+ Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
+2020-06-12 17:40:50,055 - Facebook -INFO - 
+ Actual Item Price is : $420 vs. Expected Price is : $420
+2020-06-12 17:40:50,107 - Facebook -INFO - Deleting Item :: Jordan Shoe 9
+2020-06-12 17:40:56,210 - Facebook -INFO - Verifying item is deleted...
+2020-06-12 17:41:06,266 - Facebook -INFO - Item has been deleted - Verified
