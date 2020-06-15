@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suit-1" duration-ms="96123" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:41:10Z">
+  <suite name="Suit-1" duration-ms="108257" started-at="2020-06-15T04:55:47Z" finished-at="2020-06-15T04:57:35Z">
     <groups>
     </groups>
-    <test name="MarketPlace" duration-ms="96123" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:41:10Z">
+    <test name="MarketPlace" duration-ms="108257" started-at="2020-06-15T04:55:47Z" finished-at="2020-06-15T04:57:35Z">
       <class name="com.TestCases.CreateMarketPlaceList">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="setup" is-config="true" duration-ms="6535" started-at="2020-06-12T21:39:34Z" finished-at="2020-06-12T21:39:40Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="setup" is-config="true" duration-ms="6942" started-at="2020-06-15T04:55:47Z" finished-at="2020-06-15T04:55:54Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,38 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="init" is-config="true" duration-ms="26" started-at="2020-06-12T21:39:40Z" finished-at="2020-06-12T21:39:40Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="init" is-config="true" duration-ms="26" started-at="2020-06-15T04:55:54Z" finished-at="2020-06-15T04:55:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="createMrkPltList()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="createMrkPltList" duration-ms="85446" started-at="2020-06-12T21:39:40Z" finished-at="2020-06-12T21:41:06Z">
+        <test-method status="PASS" signature="collectCookiesWithLogin()[pri:1, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="collectCookiesWithLogin" duration-ms="18375" started-at="2020-06-15T04:55:54Z" finished-at="2020-06-15T04:56:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createMrkPltList -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="tearDown" is-config="true" duration-ms="4101" started-at="2020-06-12T21:41:06Z" finished-at="2020-06-12T21:41:10Z">
+        </test-method> <!-- collectCookiesWithLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="tearDown" is-config="true" duration-ms="4148" started-at="2020-06-15T04:56:13Z" finished-at="2020-06-15T04:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="setup" is-config="true" duration-ms="6207" started-at="2020-06-15T04:56:17Z" finished-at="2020-06-15T04:56:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="init" is-config="true" duration-ms="1" started-at="2020-06-15T04:56:23Z" finished-at="2020-06-15T04:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="createMarketPlaceItemWithCookies()[pri:2, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="createMarketPlaceItemWithCookies" duration-ms="72400" started-at="2020-06-15T04:56:23Z" finished-at="2020-06-15T04:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMarketPlaceItemWithCookies -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.CreateMarketPlaceList@5c3bd550]" name="tearDown" is-config="true" duration-ms="138" started-at="2020-06-15T04:57:35Z" finished-at="2020-06-15T04:57:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

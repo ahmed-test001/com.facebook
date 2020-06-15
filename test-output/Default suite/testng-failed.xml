@@ -3,14 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestCases.CreateMarketPlaceList">
+      <class name="com.TestCases.CreateMarketPlaceList2">
         <methods>
-          <include name="setup"/>
-          <include name="init"/>
-          <include name="createMrkPltList"/>
           <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="createMrkPltList"/>
+          <include name="collectCookiesWithLogin"/>
+          <include name="init"/>
         </methods>
-      </class> <!-- com.TestCases.CreateMarketPlaceList -->
+      </class> <!-- com.TestCases.CreateMarketPlaceList2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

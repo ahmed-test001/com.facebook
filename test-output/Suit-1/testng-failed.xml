@@ -6,9 +6,10 @@
     <classes>
       <class name="com.TestCases.CreateMarketPlaceList">
         <methods>
+          <include name="collectCookiesWithLogin"/>
           <include name="setup"/>
+          <include name="createMarketPlaceItemWithCookies"/>
           <include name="init"/>
-          <include name="createMrkPltList"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.TestCases.CreateMarketPlaceList -->

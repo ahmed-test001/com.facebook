@@ -1,7 +1,7 @@
 package com.TestCases;
 
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.PageObject.CommonClass;
 import com.PageObject.Constants;
@@ -15,31 +15,37 @@ public class CreateMarketPlaceList extends CommonClass {
 	DashBoardPage dbp;
 	MarketPlacePage mp;
 
-	@BeforeClass
+	@BeforeMethod
 	public void init() {
 		lp = new LoginPage(driver);
 		dbp = new DashBoardPage(driver);
 		mp = new MarketPlacePage(driver);
 	}
+	
+	@Test(priority=1)
+	public void collectCookiesWithLogin() throws Exception {		
+		lp.setEmail(username);
+		logger.info("User Name has been entered");
+		lp.setPassword(password);
+		logger.info("Password has been entered");
+		lp.clickLoginBtn();
+		logger.info("Logging in...");
+		Thread.sleep(5000);
+		collectCookies("cookie.data");
+	}
 
-	@Test
-	public void createMrkPltList() throws Exception {
-		try {
-			lp.setEmail(username);
-			logger.info("User Name has been entered");
-			lp.setPassword(password);
-			logger.info("Password has been entered");
-			lp.clickLoginBtn();
-			logger.info("Logging in...");
-			Thread.sleep(5000);
+	@Test(priority=2)
+	public void createMarketPlaceItemWithCookies() throws Exception {
+		try {		
+			injectCookies("cookie.data");
 			String titel = driver.getTitle();
 			Assert.assertEquals(driver.getTitle(), titel);
 			dbp.getMrktPl();
 			logger.info("Clicking Market Place");
 			Thread.sleep(5000);
 			String titleX = driver.getTitle();
-			titel = titleX.substring(titleX.indexOf("F"), titleX.length());
-			Assert.assertEquals(Constants.title, titel);
+			String titel_M = titleX.substring(titleX.indexOf("F"), titleX.length());
+			Assert.assertEquals(Constants.title, titel_M);
 			WindowHandle();
 			mp.createMrktPlList();
 			logger.info("Listing an item");
@@ -85,18 +91,14 @@ public class CreateMarketPlaceList extends CommonClass {
 			mp.deleteBtn();
 			Thread.sleep(2000);
 			mp.ConfirmDelete();
-			Thread.sleep(2000);
+			Thread.sleep(5000);
 			logger.info("Verifying item is deleted...");
 			Assert.assertTrue(mp.VerifyTitle(Constants.itemTitle));
 			logger.info("Item has been deleted - Verified");
 		} catch (Exception e) {
 			captureScreen(driver, "createMrkPltList-Error");
-			Assert.assertTrue(false);
-			System.out.println(e.getMessage());
 			logger.info("Error Occure during execution. Please find the Error/Exception below \n"+e.getMessage());
-			Assert.fail(e.getMessage());
+			Assert.fail(e.getLocalizedMessage());
 		}
-
 	}
-
 }
