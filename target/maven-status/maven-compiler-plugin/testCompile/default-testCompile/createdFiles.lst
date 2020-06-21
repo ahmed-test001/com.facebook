@@ -1,0 +1,9 @@
+com\PageObject\LoginPage.class
+com\Utilities\ReadConfig.class
+com\PageObject\MarketPlacePage2.class
+com\PageObject\DashBoardPage.class
+com\PageObject\CommonClass.class
+com\TestCases\CreateMarketPlaceList2.class
+com\TestCases\CreateMarketPlaceList.class
+com\PageObject\MarketPlacePage.class
+com\PageObject\Constants.class

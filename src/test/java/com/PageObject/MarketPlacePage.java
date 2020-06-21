@@ -1,7 +1,6 @@
 package com.PageObject;
 
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
@@ -27,6 +26,7 @@ public class MarketPlacePage {
 	@CacheLookup@FindBy(xpath="//span[contains(text(),'Title')]/following-sibling::input")WebElement TextBoxTitle;
 	@CacheLookup@FindBy(xpath="//span[contains(text(),'Price')]/following-sibling::input")WebElement TextBoxPrice;
 	@CacheLookup@FindBy(xpath="//span[contains(.,'Category')]/following-sibling::div")WebElement TextBoxCatagory;
+	@CacheLookup@FindBy(xpath="//span[text()='Clothing & Accessories']")WebElement TextBoxClothing;	
 	@CacheLookup@FindBy(xpath="//span[contains(text(),'Men')]")WebElement TextBoxMensClothing;
 	@CacheLookup@FindBy(xpath="//span[contains(.,'Condition')]/following-sibling::div")WebElement TextBoxCondition;
 	@CacheLookup@FindBy(xpath="//div[@class='l9j0dhe7']/descendant::span[text()='New']")WebElement TextBoxNew;
@@ -39,6 +39,8 @@ public class MarketPlacePage {
 	@CacheLookup@FindBy(xpath="//div[@role='menu']/descendant::span[contains(text(),'Delete')]")WebElement DeletetBtn;
 	@CacheLookup@FindBy(xpath="(//div[@aria-label='Delete Listing' and contains(.,'Delete')]/descendant::span[text()='Delete'])[1]")WebElement DeletetConfirm;	
 	@CacheLookup By ListVerification = By.xpath("(//div[@class='tvmbv18p'])[1]/child::div/child::div");
+	@CacheLookup By TextBoxCatagory2=By.xpath ("//div[@class='rm0tqlba emxnvquj']"); 
+	@CacheLookup By TextBoxClothing_Accessories=By.xpath("//span[text()='Clothing & Accessories']");
 
 	public void createMrktPlList()
 	{
@@ -78,8 +80,27 @@ public class MarketPlacePage {
 	}
 	public void selectMensClothing() throws Exception
 	{
-		CommonClass.js.executeScript("arguments[0].scrollIntoView(true);", TextBoxMensClothing);
+
+ /*          List<WebElement> options = CommonClass.driver.findElements(TextBoxCatagory2); 
+            for(int i=0; i<options.size(); i++) 
+            { 
+                // if (item.getText().equals("Clothing & Accessories")){
+                	 if (options.get(i).getText().contains(Constants.option)){
+                 System.out.println("Matched");
+                 TextBoxClothing.click();  
+                 Thread.sleep(1000);
+                 }
+                 CommonClass.js.executeScript("arguments[0].scrollIntoView(true);", TextBoxMensClothing);
+         		Thread.sleep(2000);
+         		TextBoxMensClothing.click();
+               }*/
+              
+		CommonClass.js.executeScript("arguments[0].scrollIntoView(true);", TextBoxClothing);
+		Thread.sleep(1000);
+		TextBoxClothing.click();
 		Thread.sleep(2000);
+		CommonClass.js.executeScript("arguments[0].scrollIntoView(true);", TextBoxMensClothing);
+		Thread.sleep(1000);
 		TextBoxMensClothing.click();			
 	}
 	
@@ -136,7 +157,7 @@ public class MarketPlacePage {
 	
 	public void ConfirmDelete()
 	{
-		DeletetConfirm.click();			
+		DeletetConfirm.click();
 	}
 	
 	public boolean VerifyTitle(String title) {

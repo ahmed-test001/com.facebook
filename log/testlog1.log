@@ -1,1247 +1,952 @@
-2020-06-12 14:49:32,940 [main] INFO Facebook - User Name has been entered
-2020-06-12 14:49:33,041 [main] INFO Facebook - Password has been entered
-2020-06-12 14:49:33,113 [main] INFO Facebook - Logging in...
-2020-06-12 14:49:38,395 [main] INFO Facebook - Clicking Market Place
-2020-06-12 14:49:43,531 [main] INFO Facebook - Listing an item
-2020-06-12 14:49:43,999 [main] INFO Facebook - Item for Sell
-2020-06-12 14:49:58,580 [main] INFO Facebook - Adding Item Photo
-2020-06-12 14:49:59,027 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 14:49:59,214 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 14:50:01,356 [main] INFO Facebook - Selecting Category
-2020-06-12 14:50:08,558 [main] INFO Facebook - Setting condition for Item
-2020-06-12 14:50:13,084 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 14:50:20,445 [main] INFO Facebook - Setting Location
-2020-06-12 14:50:23,675 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 14:50:28,738 [main] INFO Facebook - Verifying item title and price 
+2020-06-15 01:18:31,819 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 01:18:35,435 [main] INFO Facebook - User Name has been entered
+2020-06-15 01:18:35,542 [main] INFO Facebook - Password has been entered
+2020-06-15 01:18:35,671 [main] INFO Facebook - Logging in...
+2020-06-15 01:18:44,068 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 01:18:48,405 [main] INFO Facebook - Clicking Market Place
+2020-06-15 01:18:53,515 [main] INFO Facebook - Listing an item
+2020-06-15 01:18:54,125 [main] INFO Facebook - Item for Sell
+2020-06-15 01:19:09,024 [main] INFO Facebook - Adding Item Photo
+2020-06-15 01:19:09,604 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-15 01:19:09,818 [main] INFO Facebook - Setting Item price as : 420
+2020-06-15 01:19:11,993 [main] INFO Facebook - Selecting Category
+2020-06-15 01:19:19,199 [main] INFO Facebook - Setting condition for Item
+2020-06-15 01:19:24,326 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-15 01:19:31,773 [main] INFO Facebook - Setting Location
+2020-06-15 01:19:35,074 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-15 01:19:40,117 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 14:50:28,739 [main] INFO Facebook - 
+2020-06-15 01:19:40,117 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 14:50:28,794 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 14:50:34,938 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 14:54:01,605 [main] INFO Facebook - User Name has been entered
-2020-06-12 14:54:01,707 [main] INFO Facebook - Password has been entered
-2020-06-12 14:54:01,801 [main] INFO Facebook - Logging in...
-2020-06-12 14:54:06,973 [main] INFO Facebook - Clicking Market Place
-2020-06-12 14:54:12,076 [main] INFO Facebook - Listing an item
-2020-06-12 14:54:12,610 [main] INFO Facebook - Item for Sell
-2020-06-12 14:54:27,148 [main] INFO Facebook - Adding Item Photo
-2020-06-12 14:54:27,551 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 14:54:27,697 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 14:54:29,810 [main] INFO Facebook - Selecting Category
-2020-06-12 14:54:37,059 [main] INFO Facebook - Setting condition for Item
-2020-06-12 14:54:41,414 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 14:54:48,784 [main] INFO Facebook - Setting Location
-2020-06-12 14:54:52,006 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 14:55:07,868 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
-Index: 0, Size: 0
-2020-06-12 15:24:14,880 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:24:18,322 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:24:18,438 [main] INFO Facebook - Password has been entered
-2020-06-12 15:24:18,521 [main] INFO Facebook - Logging in...
-2020-06-12 15:24:24,851 [main] INFO Facebook - Clicking Market Place
-2020-06-12 15:24:29,936 [main] INFO Facebook - Listing an item
-2020-06-12 15:24:30,436 [main] INFO Facebook - Item for Sell
-2020-06-12 15:24:44,985 [main] INFO Facebook - Adding Item Photo
-2020-06-12 15:24:45,494 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 15:24:45,677 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 15:24:47,800 [main] INFO Facebook - Selecting Category
-2020-06-12 15:24:55,038 [main] INFO Facebook - Setting condition for Item
-2020-06-12 15:24:59,617 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 15:25:06,973 [main] INFO Facebook - Setting Location
-2020-06-12 15:25:10,213 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 15:25:15,257 [main] INFO Facebook - Verifying item title and price 
+2020-06-15 01:19:40,174 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-15 01:19:49,316 [main] INFO Facebook - Verifying item is deleted...
+2020-06-15 01:19:59,370 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-15 01:21:05,319 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 01:21:08,781 [main] INFO Facebook - User Name has been entered
+2020-06-15 01:21:08,914 [main] INFO Facebook - Password has been entered
+2020-06-15 01:21:09,022 [main] INFO Facebook - Logging in...
+2020-06-15 01:21:21,651 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 01:21:25,395 [main] INFO Facebook - Clicking Market Place
+2020-06-15 01:21:30,506 [main] INFO Facebook - Listing an item
+2020-06-15 01:21:31,112 [main] INFO Facebook - Item for Sell
+2020-06-15 01:21:45,977 [main] INFO Facebook - Adding Item Photo
+2020-06-15 01:21:46,508 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-15 01:21:46,724 [main] INFO Facebook - Setting Item price as : 420
+2020-06-15 01:21:48,885 [main] INFO Facebook - Selecting Category
+2020-06-15 01:21:56,040 [main] INFO Facebook - Setting condition for Item
+2020-06-15 01:22:01,190 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-15 01:22:08,616 [main] INFO Facebook - Setting Location
+2020-06-15 01:22:11,871 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-15 01:22:16,921 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 15:25:15,258 [main] INFO Facebook - 
+2020-06-15 01:22:16,921 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 15:25:15,314 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 15:25:21,438 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 15:25:31,507 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 15:41:53,891 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:41:56,998 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:41:57,175 [main] INFO Facebook - Password has been entered
-2020-06-12 15:41:57,249 [main] INFO Facebook - Logging in...
-2020-06-12 15:42:02,323 [main] INFO Facebook - Clicking Market Place
-2020-06-12 15:43:35,623 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:43:38,755 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:43:38,926 [main] INFO Facebook - Password has been entered
-2020-06-12 15:43:38,993 [main] INFO Facebook - Logging in...
-2020-06-12 15:43:44,021 [main] INFO Facebook - Clicking Market Place
-2020-06-12 15:45:28,020 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:45:31,144 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:45:31,292 [main] INFO Facebook - Password has been entered
-2020-06-12 15:45:31,361 [main] INFO Facebook - Logging in...
-2020-06-12 15:47:01,759 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:47:04,834 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:47:04,985 [main] INFO Facebook - Password has been entered
-2020-06-12 15:47:05,047 [main] INFO Facebook - Logging in...
-2020-06-12 15:47:42,452 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:47:45,560 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:47:45,691 [main] INFO Facebook - Password has been entered
-2020-06-12 15:47:45,757 [main] INFO Facebook - Logging in...
-2020-06-12 15:47:50,861 [main] INFO Facebook - Clicking Market Place
-2020-06-12 15:47:55,969 [main] INFO Facebook - Listing an item
-2020-06-12 15:47:56,491 [main] INFO Facebook - Item for Sell
-2020-06-12 15:48:11,096 [main] INFO Facebook - Adding Item Photo
-2020-06-12 15:48:11,538 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 15:48:11,715 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 15:48:13,853 [main] INFO Facebook - Selecting Category
-2020-06-12 15:48:21,063 [main] INFO Facebook - Setting condition for Item
-2020-06-12 15:48:25,631 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 15:48:32,983 [main] INFO Facebook - Setting Location
-2020-06-12 15:48:36,203 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 15:48:41,287 [main] INFO Facebook - Verifying item title and price 
+2020-06-15 01:22:16,979 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-15 01:22:26,122 [main] INFO Facebook - Verifying item is deleted...
+2020-06-15 01:22:36,162 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-15 21:43:48,680 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 21:43:51,657 [main] INFO Facebook - User Name has been entered
+2020-06-15 21:43:51,778 [main] INFO Facebook - Password has been entered
+2020-06-15 21:44:01,909 [main] INFO Facebook - Logging in...
+2020-06-15 21:44:12,912 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 21:44:18,843 [main] INFO Facebook - Clicking Market Place
+2020-06-15 21:44:43,729 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 21:44:46,876 [main] INFO Facebook - User Name has been entered
+2020-06-15 21:44:47,064 [main] INFO Facebook - Password has been entered
+2020-06-15 21:44:47,124 [main] INFO Facebook - Logging in...
+2020-06-15 21:44:56,858 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-15 21:45:00,421 [main] INFO Facebook - Clicking Market Place
+2020-06-16 00:40:42,624 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 00:40:45,809 [main] INFO Facebook - User Name has been entered
+2020-06-16 00:40:46,003 [main] INFO Facebook - Password has been entered
+2020-06-16 00:40:46,073 [main] INFO Facebook - Logging in...
+2020-06-16 00:40:55,131 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 00:41:08,971 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: db2bf72bbbc8cab9790630fbe03f9fb3
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 00:43:36,592 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 00:43:50,459 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c6ead94a02d0561dffdf8d692fa8047b
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 00:47:37,547 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 00:47:54,420 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4e1964ab9c804feb3a01509d4e7c9851
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 01:40:39,831 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 01:40:57,205 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 502ef444520927b046d5a48daa21018f
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 12:23:45,004 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:23:48,123 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:23:48,300 [main] INFO Facebook - Password has been entered
+2020-06-16 12:23:48,373 [main] INFO Facebook - Logging in...
+2020-06-16 12:24:36,919 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:24:40,091 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:24:40,274 [main] INFO Facebook - Password has been entered
+2020-06-16 12:24:40,370 [main] INFO Facebook - Logging in...
+2020-06-16 12:38:47,831 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:38:50,978 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:38:51,169 [main] INFO Facebook - Password has been entered
+2020-06-16 12:38:51,228 [main] INFO Facebook - Logging in...
+2020-06-16 12:40:06,103 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:40:09,224 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:40:09,406 [main] INFO Facebook - Password has been entered
+2020-06-16 12:40:09,465 [main] INFO Facebook - Logging in...
+2020-06-16 12:43:55,129 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:43:58,396 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:43:58,571 [main] INFO Facebook - Password has been entered
+2020-06-16 12:43:58,648 [main] INFO Facebook - Logging in...
+2020-06-16 12:44:57,038 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 12:45:00,236 [main] INFO Facebook - User Name has been entered
+2020-06-16 12:45:00,420 [main] INFO Facebook - Password has been entered
+2020-06-16 12:45:00,537 [main] INFO Facebook - Logging in...
+2020-06-16 22:21:08,581 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:21:26,294 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63007}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b83efc909f4eee205dd87502889d69f4
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 22:22:12,781 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:22:16,988 [main] INFO Facebook - User Name has been entered
+2020-06-16 22:22:17,167 [main] INFO Facebook - Password has been entered
+2020-06-16 22:22:17,294 [main] INFO Facebook - Logging in...
+2020-06-16 22:22:26,985 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:22:45,131 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63123}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 812a28d0e9ada9e5d56266d3ff00de7e
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 22:28:30,203 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:28:34,000 [main] INFO Facebook - User Name has been entered
+2020-06-16 22:28:34,146 [main] INFO Facebook - Password has been entered
+2020-06-16 22:28:51,136 [main] INFO Facebook - Logging in...
+2020-06-16 22:28:59,262 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:29:14,166 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63421}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 208ed6fb3bc242e667ca4bb5695e244c
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 22:32:16,932 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:32:21,055 [main] INFO Facebook - User Name has been entered
+2020-06-16 22:32:21,346 [main] INFO Facebook - Password has been entered
+2020-06-16 22:32:21,424 [main] INFO Facebook - Logging in...
+2020-06-16 22:32:29,987 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:32:45,220 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a480702fcfa93a540ffe07fbadc2226e
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 22:33:48,585 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:33:53,051 [main] INFO Facebook - User Name has been entered
+2020-06-16 22:33:53,190 [main] INFO Facebook - Password has been entered
+2020-06-16 22:33:53,298 [main] INFO Facebook - Logging in...
+2020-06-16 22:56:42,776 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 22:56:47,443 [main] INFO Facebook - User Name has been entered
+2020-06-16 22:56:47,590 [main] INFO Facebook - Password has been entered
+2020-06-16 22:56:47,702 [main] INFO Facebook - Logging in...
+2020-06-16 23:05:09,480 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:05:13,002 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:05:13,109 [main] INFO Facebook - Password has been entered
+2020-06-16 23:05:13,217 [main] INFO Facebook - Logging in...
+2020-06-16 23:05:18,218 [main] INFO Facebook - Checking Logger
+2020-06-16 23:12:17,718 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:12:21,088 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:12:21,351 [main] INFO Facebook - Password has been entered
+2020-06-16 23:12:21,488 [main] INFO Facebook - Logging in...
+2020-06-16 23:12:26,489 [main] INFO Facebook - Checking Logger
+2020-06-16 23:20:10,020 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:20:14,027 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:20:14,217 [main] INFO Facebook - Password has been entered
+2020-06-16 23:20:14,321 [main] INFO Facebook - Logging in...
+2020-06-16 23:20:19,321 [main] INFO Facebook - Checking Logger
+2020-06-16 23:25:22,105 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:25:25,834 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:25:25,985 [main] INFO Facebook - Password has been entered
+2020-06-16 23:25:26,076 [main] INFO Facebook - Logging in...
+2020-06-16 23:25:31,078 [main] INFO Facebook - Checking Logger
+2020-06-16 23:34:49,137 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:34:52,730 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:34:52,902 [main] INFO Facebook - Password has been entered
+2020-06-16 23:34:53,003 [main] INFO Facebook - Logging in...
+2020-06-16 23:34:58,003 [main] INFO Facebook - Checking Logger
+2020-06-16 23:37:09,574 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:37:12,616 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:37:12,790 [main] INFO Facebook - Password has been entered
+2020-06-16 23:37:12,864 [main] INFO Facebook - Logging in...
+2020-06-16 23:37:17,864 [main] INFO Facebook - Checking Logger
+2020-06-16 23:50:21,231 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:50:24,758 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:50:24,850 [main] INFO Facebook - Password has been entered
+2020-06-16 23:50:24,957 [main] INFO Facebook - Logging in...
+2020-06-16 23:50:29,957 [main] INFO Facebook - Checking Logger
+2020-06-16 23:51:45,183 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:51:48,418 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:51:48,613 [main] INFO Facebook - Password has been entered
+2020-06-16 23:51:48,679 [main] INFO Facebook - Logging in...
+2020-06-16 23:51:53,680 [main] INFO Facebook - Checking Logger
+2020-06-16 23:53:35,346 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:53:38,762 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:53:38,851 [main] INFO Facebook - Password has been entered
+2020-06-16 23:53:38,952 [main] INFO Facebook - Logging in...
+2020-06-16 23:53:41,953 [main] INFO Facebook - Checking Logger
+2020-06-16 23:56:46,518 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:56:49,781 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:56:49,991 [main] INFO Facebook - Password has been entered
+2020-06-16 23:56:50,091 [main] INFO Facebook - Logging in...
+2020-06-16 23:56:55,136 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-16 23:57:00,102 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:57:14,066 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51090}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0fe6fa1730c350e4b26f39a1d75571b2
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 23:57:27,915 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:57:31,310 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:57:31,431 [main] INFO Facebook - Password has been entered
+2020-06-16 23:57:31,520 [main] INFO Facebook - Logging in...
+2020-06-16 23:57:36,553 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-16 23:57:41,598 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:57:55,543 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51182}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7b91ea9aa9fba22abeb7124f4da921d4
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-16 23:59:31,426 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:59:34,634 [main] INFO Facebook - User Name has been entered
+2020-06-16 23:59:34,856 [main] INFO Facebook - Password has been entered
+2020-06-16 23:59:34,928 [main] INFO Facebook - Logging in...
+2020-06-16 23:59:39,962 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-16 23:59:41,993 [main] INFO Facebook - Collecting Cookies
+2020-06-16 23:59:45,406 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-16 23:59:59,344 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51342}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1192f3ce8144ad19a42c7a585822f6b6
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:01:54,426 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:02:51,169 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:02:54,400 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:02:54,509 [main] INFO Facebook - Password has been entered
+2020-06-17 00:02:54,610 [main] INFO Facebook - Logging in...
+2020-06-17 00:02:59,659 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:03:01,689 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:03:05,129 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:03:18,890 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7514d722e936799e429c22074a99790b
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:04:03,810 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:04:06,928 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:04:07,093 [main] INFO Facebook - Password has been entered
+2020-06-17 00:04:07,202 [main] INFO Facebook - Logging in...
+2020-06-17 00:04:12,245 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:04:14,299 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:04:17,714 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:04:35,825 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51723}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bc9ebee7c4f8c25b2c8a0df2acf1dd5a
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:20:53,151 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:20:56,344 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:20:56,492 [main] INFO Facebook - Password has been entered
+2020-06-17 00:20:56,584 [main] INFO Facebook - Logging in...
+2020-06-17 00:21:01,619 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:21:03,647 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:21:10,769 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:21:24,506 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52353}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3a5325497a5af34ffbcd674654e47362
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:22:04,291 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:22:07,406 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:22:07,566 [main] INFO Facebook - Password has been entered
+2020-06-17 00:22:08,613 [main] INFO Facebook - Logging in...
+2020-06-17 00:22:12,575 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:22:15,870 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:22:29,766 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52464}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 48cb5ddad7644fac527146ce6f8b0b2e
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:28:50,916 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:28:54,085 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:28:54,265 [main] INFO Facebook - Password has been entered
+2020-06-17 00:28:54,376 [main] INFO Facebook - Logging in...
+2020-06-17 00:28:59,841 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:29:07,117 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:29:20,894 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0503d0f36baf11b1e53c8e072ae6a4e1
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:38:18,343 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:38:21,493 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:38:21,664 [main] INFO Facebook - Password has been entered
+2020-06-17 00:38:21,764 [main] INFO Facebook - Logging in...
+2020-06-17 00:38:26,515 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:38:29,754 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:38:43,546 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53639}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: db740aa838e79d129ae3de820ab9d177
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:39:52,262 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:40:10,570 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53722}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 355e3e9f167b192e2acd816f5261f890
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:42:57,834 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 00:43:16,048 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Marketplace']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53858}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 94485047f038aa73fdf509e984bc817c
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:46:31,190 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 00:46:32,410 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:46:32,439 [main] INFO Facebook - Password has been entered
+2020-06-17 00:46:37,152 [main] INFO Facebook - Logging in...
+2020-06-17 00:46:42,189 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:46:44,204 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:46:47,631 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 00:47:08,979 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+Unable to locate element: //div[text()='Marketplace']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200107212822, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 48776, moz:profile: C:\Users\ahmed\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f73435d9-17b8-4d8f-8e49-a1c8280bbda7
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:47:45,279 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 00:47:46,383 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:47:46,413 [main] INFO Facebook - Password has been entered
+2020-06-17 00:47:50,830 [main] INFO Facebook - Logging in...
+2020-06-17 00:47:55,866 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:47:57,879 [main] INFO Facebook - Collecting Cookies
+2020-06-17 00:48:02,091 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 00:48:13,648 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+Unable to locate element: //div[text()='Marketplace']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200107212822, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 13976, moz:profile: C:\Users\ahmed\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 080a0a57-17a4-419d-8340-840ec91d5a7c
+*** Element info: {Using=xpath, value=//div[text()='Marketplace']}
+2020-06-17 00:59:45,415 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 00:59:46,580 [main] INFO Facebook - User Name has been entered
+2020-06-17 00:59:46,611 [main] INFO Facebook - Password has been entered
+2020-06-17 00:59:51,134 [main] INFO Facebook - Logging in...
+2020-06-17 00:59:56,171 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 00:59:58,191 [main] INFO Facebook - Collecting Cookies
+2020-06-17 01:00:01,593 [main] INFO Facebook - Initializing FireFoxDriver..
+2020-06-17 01:00:13,049 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+Unable to locate element: //div[contains(text(),'Marketplace')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200107212822, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 5004, moz:profile: C:\Users\ahmed\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 170bee0d-4d84-4cab-9322-46ee9728e39b
+*** Element info: {Using=xpath, value=//div[contains(text(),'Marketplace')]}
+2020-06-17 01:00:46,797 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 01:00:49,989 [main] INFO Facebook - User Name has been entered
+2020-06-17 01:00:50,152 [main] INFO Facebook - Password has been entered
+2020-06-17 01:00:50,219 [main] INFO Facebook - Logging in...
+2020-06-17 01:00:55,259 [main] INFO Facebook - Cancelling Browser Notification
+2020-06-17 01:00:57,289 [main] INFO Facebook - Collecting Cookies
+2020-06-17 01:01:00,492 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-17 01:01:14,274 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Marketplace')]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e32f7306b1d693d62babd160fc68f235
+*** Element info: {Using=xpath, value=//div[contains(text(),'Marketplace')]}
+2020-06-18 13:35:18,791 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:35:22,759 [main] INFO Facebook - User Name has been entered
+2020-06-18 13:35:22,860 [main] INFO Facebook - Password has been entered
+2020-06-18 13:35:22,938 [main] INFO Facebook - Logging in...
+2020-06-18 13:35:35,080 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:35:38,406 [main] INFO Facebook - Clicking Market Place
+2020-06-18 13:38:32,423 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:38:35,641 [main] INFO Facebook - User Name has been entered
+2020-06-18 13:38:35,746 [main] INFO Facebook - Password has been entered
+2020-06-18 13:38:35,846 [main] INFO Facebook - Logging in...
+2020-06-18 13:38:44,084 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:38:47,264 [main] INFO Facebook - Clicking Market Place
+2020-06-18 13:38:52,350 [main] INFO Facebook - Listing an item
+2020-06-18 13:38:52,895 [main] INFO Facebook - Item for Sell
+2020-06-18 13:39:07,427 [main] INFO Facebook - Adding Item Photo
+2020-06-18 13:39:07,865 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 13:39:08,044 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 13:39:10,166 [main] INFO Facebook - Selecting Category
+2020-06-18 13:39:23,288 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c951285411eb10311df09d3a3015efc2
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-18 13:51:44,287 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:51:47,454 [main] INFO Facebook - User Name has been entered
+2020-06-18 13:51:47,602 [main] INFO Facebook - Password has been entered
+2020-06-18 13:51:47,706 [main] INFO Facebook - Logging in...
+2020-06-18 13:51:55,869 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:51:58,856 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 13:51:59,058 [main] INFO Facebook - Clicking Market Place
+2020-06-18 13:52:04,148 [main] INFO Facebook - Listing an item
+2020-06-18 13:52:04,684 [main] INFO Facebook - Item for Sell
+2020-06-18 13:52:19,472 [main] INFO Facebook - Adding Item Photo
+2020-06-18 13:52:19,877 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 13:52:20,032 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 13:52:22,159 [main] INFO Facebook - Selecting Category
+2020-06-18 13:52:35,333 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e41a255d0dff672cdc4ab744c0400a43
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-18 13:55:02,835 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:55:05,901 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 13:55:06,106 [main] INFO Facebook - Clicking Market Place
+2020-06-18 13:55:11,198 [main] INFO Facebook - Listing an item
+2020-06-18 13:55:11,616 [main] INFO Facebook - Item for Sell
+2020-06-18 13:55:26,236 [main] INFO Facebook - Adding Item Photo
+2020-06-18 13:55:26,678 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 13:55:26,843 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 13:55:29,000 [main] INFO Facebook - Selecting Category
+2020-06-18 13:55:36,256 [main] INFO Facebook - Setting condition for Item
+2020-06-18 13:55:40,889 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 13:55:48,285 [main] INFO Facebook - Setting Location
+2020-06-18 13:55:51,515 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 13:55:59,286 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 15:48:41,287 [main] INFO Facebook - 
+2020-06-18 13:55:59,286 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 15:48:41,342 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 15:48:47,469 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 15:48:57,563 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 15:54:11,380 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:54:14,375 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:54:14,628 [main] INFO Facebook - Password has been entered
-2020-06-12 15:54:14,700 [main] INFO Facebook - Logging in...
-2020-06-12 15:56:22,948 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 15:56:25,873 [main] INFO Facebook - User Name has been entered
-2020-06-12 15:56:25,954 [main] INFO Facebook - Password has been entered
-2020-06-12 15:56:36,135 [main] INFO Facebook - Logging in...
-2020-06-12 16:06:22,048 [TestNG-test=MarketPlace-1] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:06:25,420 [TestNG-test=MarketPlace-1] INFO Facebook - User Name has been entered
-2020-06-12 16:06:25,523 [TestNG-test=MarketPlace-1] INFO Facebook - Password has been entered
-2020-06-12 16:06:25,608 [TestNG-test=MarketPlace-1] INFO Facebook - Logging in...
-2020-06-12 16:06:30,807 [TestNG-test=MarketPlace-1] INFO Facebook - Clicking Market Place
-2020-06-12 16:19:00,854 [TestNG-test=MarketPlace-1] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:19:04,052 [TestNG-test=MarketPlace-1] INFO Facebook - User Name has been entered
-2020-06-12 16:19:04,203 [TestNG-test=MarketPlace-1] INFO Facebook - Password has been entered
-2020-06-12 16:19:04,270 [TestNG-test=MarketPlace-1] INFO Facebook - Logging in...
-2020-06-12 16:22:33,517 [TestNG-test=MarketPlace-1] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:22:36,618 [TestNG-test=MarketPlace-1] INFO Facebook - User Name has been entered
-2020-06-12 16:22:36,771 [TestNG-test=MarketPlace-1] INFO Facebook - Password has been entered
-2020-06-12 16:22:36,842 [TestNG-test=MarketPlace-1] INFO Facebook - Logging in...
-2020-06-12 16:26:51,838 [TestNG-test=MarketPlace-1] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:26:54,937 [TestNG-test=MarketPlace-1] INFO Facebook - User Name has been entered
-2020-06-12 16:26:55,096 [TestNG-test=MarketPlace-1] INFO Facebook - Password has been entered
-2020-06-12 16:26:55,159 [TestNG-test=MarketPlace-1] INFO Facebook - Logging in...
-2020-06-12 16:27:00,373 [TestNG-test=MarketPlace-1] INFO Facebook - Clicking Market Place
-2020-06-12 16:27:05,484 [TestNG-test=MarketPlace-1] INFO Facebook - Listing an item
-2020-06-12 16:27:06,011 [TestNG-test=MarketPlace-1] INFO Facebook - Item for Sell
-2020-06-12 16:27:20,575 [TestNG-test=MarketPlace-1] INFO Facebook - Adding Item Photo
-2020-06-12 16:27:20,997 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:27:21,185 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:27:23,292 [TestNG-test=MarketPlace-1] INFO Facebook - Selecting Category
-2020-06-12 16:27:30,507 [TestNG-test=MarketPlace-1] INFO Facebook - Setting condition for Item
-2020-06-12 16:27:35,053 [TestNG-test=MarketPlace-1] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:27:42,393 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Location
-2020-06-12 16:27:45,629 [TestNG-test=MarketPlace-1] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:27:50,697 [TestNG-test=MarketPlace-1] INFO Facebook - Verifying item title and price 
+2020-06-18 13:55:59,346 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 13:56:08,473 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 13:56:22,244 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 13:56:25,556 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 13:56:25,743 [main] INFO Facebook - Clicking Market Place
+2020-06-18 13:56:30,851 [main] INFO Facebook - Listing an item
+2020-06-18 13:56:31,205 [main] INFO Facebook - Item for Sell
+2020-06-18 13:56:45,701 [main] INFO Facebook - Adding Item Photo
+2020-06-18 13:56:46,100 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 13:56:46,250 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 13:56:48,403 [main] INFO Facebook - Selecting Category
+2020-06-18 13:56:55,647 [main] INFO Facebook - Setting condition for Item
+2020-06-18 13:57:00,232 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 13:57:07,642 [main] INFO Facebook - Setting Location
+2020-06-18 13:57:10,909 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 13:57:15,986 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:27:50,698 [TestNG-test=MarketPlace-1] INFO Facebook - 
+2020-06-18 13:57:15,986 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:27:50,753 [TestNG-test=MarketPlace-1] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:27:56,913 [TestNG-test=MarketPlace-1] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:28:06,933 [TestNG-test=MarketPlace-1] INFO Facebook - Item has been deleted - Verified
-2020-06-12 16:29:18,858 [TestNG-test=MarketPlace-1] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:29:21,958 [TestNG-test=MarketPlace-1] INFO Facebook - User Name has been entered
-2020-06-12 16:29:22,112 [TestNG-test=MarketPlace-1] INFO Facebook - Password has been entered
-2020-06-12 16:29:22,230 [TestNG-test=MarketPlace-1] INFO Facebook - Logging in...
-2020-06-12 16:29:27,607 [TestNG-test=MarketPlace-1] INFO Facebook - Clicking Market Place
-2020-06-12 16:29:32,719 [TestNG-test=MarketPlace-1] INFO Facebook - Listing an item
-2020-06-12 16:29:33,253 [TestNG-test=MarketPlace-1] INFO Facebook - Item for Sell
-2020-06-12 16:29:48,028 [TestNG-test=MarketPlace-1] INFO Facebook - Adding Item Photo
-2020-06-12 16:29:48,484 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:29:48,660 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:29:50,785 [TestNG-test=MarketPlace-1] INFO Facebook - Selecting Category
-2020-06-12 16:29:57,978 [TestNG-test=MarketPlace-1] INFO Facebook - Setting condition for Item
-2020-06-12 16:30:02,578 [TestNG-test=MarketPlace-1] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:30:09,933 [TestNG-test=MarketPlace-1] INFO Facebook - Setting Location
-2020-06-12 16:30:13,189 [TestNG-test=MarketPlace-1] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:30:18,238 [TestNG-test=MarketPlace-1] INFO Facebook - Verifying item title and price 
+2020-06-18 13:57:16,040 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 13:57:25,158 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 14:04:40,816 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:04:43,665 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:04:43,830 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:04:48,918 [main] INFO Facebook - Listing an item
+2020-06-18 14:04:49,368 [main] INFO Facebook - Item for Sell
+2020-06-18 14:05:03,847 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:05:04,239 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:05:04,402 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:05:06,537 [main] INFO Facebook - Selecting Category
+2020-06-18 14:05:13,814 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:05:18,372 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:05:25,698 [main] INFO Facebook - Setting Location
+2020-06-18 14:05:28,965 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:05:34,010 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:30:18,239 [TestNG-test=MarketPlace-1] INFO Facebook - 
+2020-06-18 14:05:34,010 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:30:18,293 [TestNG-test=MarketPlace-1] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:30:24,435 [TestNG-test=MarketPlace-1] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:30:34,455 [TestNG-test=MarketPlace-1] INFO Facebook - Item has been deleted - Verified
-2020-06-12 16:31:16,855 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:31:20,051 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:31:20,195 [main] INFO Facebook - Password has been entered
-2020-06-12 16:31:20,267 [main] INFO Facebook - Logging in...
-2020-06-12 16:31:25,456 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:34:43,392 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:34:46,504 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:34:46,643 [main] INFO Facebook - Password has been entered
-2020-06-12 16:34:46,735 [main] INFO Facebook - Logging in...
-2020-06-12 16:34:51,849 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:34:56,977 [main] INFO Facebook - Listing an item
-2020-06-12 16:34:57,389 [main] INFO Facebook - Item for Sell
-2020-06-12 16:35:12,002 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:35:12,397 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:35:12,574 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:35:14,723 [main] INFO Facebook - Selecting Category
-2020-06-12 16:35:21,892 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:35:26,452 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:35:33,789 [main] INFO Facebook - Setting Location
-2020-06-12 16:35:37,052 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:35:42,101 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:05:34,077 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 14:05:45,181 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 14:19:47,185 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:19:50,634 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:19:51,565 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:19:56,664 [main] INFO Facebook - Listing an item
+2020-06-18 14:19:57,226 [main] INFO Facebook - Item for Sell
+2020-06-18 14:20:11,783 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:20:12,219 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:20:12,396 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:20:14,548 [main] INFO Facebook - Selecting Category
+2020-06-18 14:20:21,821 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:20:26,425 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:20:33,801 [main] INFO Facebook - Setting Location
+2020-06-18 14:20:37,071 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:20:42,115 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:35:42,102 [main] INFO Facebook - 
+2020-06-18 14:20:42,115 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:35:42,160 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:35:48,321 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:37:09,067 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:37:12,139 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:37:12,319 [main] INFO Facebook - Password has been entered
-2020-06-12 16:37:12,390 [main] INFO Facebook - Logging in...
-2020-06-12 16:37:17,498 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:37:22,602 [main] INFO Facebook - Listing an item
-2020-06-12 16:37:23,055 [main] INFO Facebook - Item for Sell
-2020-06-12 16:37:37,665 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:37:38,117 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:37:38,307 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:37:40,461 [main] INFO Facebook - Selecting Category
-2020-06-12 16:37:47,657 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:37:52,236 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:37:59,624 [main] INFO Facebook - Setting Location
-2020-06-12 16:38:02,842 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:38:07,895 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:20:42,163 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 14:20:48,179 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+element click intercepted: Element <div class="n00je7tq arfg74bv qs9ysxi8 k77z8yql i09qtzwb n7fi1qx3 b5wmifdl hzruof5a pmk7jnqg j9ispegn kr520xx4 c5ndavph art1omkt ot9fgl3s" data-visualcompletion="ignore"></div> is not clickable at point (818, 317). Other element would receive the click: <div class="bp9cbjyn j83agx80 discj3wi hv4rvrfc ihqw7lf3 dati1w0a">...</div>
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50833}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d5ce77282b239954481adf2cca28b35f
+2020-06-18 14:22:53,816 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:22:56,904 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:22:57,103 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:23:02,233 [main] INFO Facebook - Listing an item
+2020-06-18 14:23:02,787 [main] INFO Facebook - Item for Sell
+2020-06-18 14:23:17,230 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:23:17,646 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:23:17,812 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:23:19,935 [main] INFO Facebook - Selecting Category
+2020-06-18 14:23:27,213 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:23:31,809 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:23:39,191 [main] INFO Facebook - Setting Location
+2020-06-18 14:23:42,439 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:23:47,490 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:38:07,896 [main] INFO Facebook - 
+2020-06-18 14:23:47,490 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:38:07,951 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:38:14,095 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:39:55,241 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:39:58,505 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:39:58,639 [main] INFO Facebook - Password has been entered
-2020-06-12 16:39:58,726 [main] INFO Facebook - Logging in...
-2020-06-12 16:40:03,853 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:40:08,992 [main] INFO Facebook - Listing an item
-2020-06-12 16:40:09,524 [main] INFO Facebook - Item for Sell
-2020-06-12 16:40:27,350 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:40:27,774 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:40:27,959 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:40:30,099 [main] INFO Facebook - Selecting Category
-2020-06-12 16:40:37,294 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:40:41,791 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:40:49,258 [main] INFO Facebook - Setting Location
-2020-06-12 16:40:52,484 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:40:57,562 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:23:49,299 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+element click intercepted: Element <div aria-label="More" class="oajrlxb2 tdjehn4e gcieejh5 bn081pho humdl8nn izx4hr6d rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys hv4rvrfc qt6c0cv9 dati1w0a i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l beltcj47 p86d2i9g aot14ch1 kzx2olss cbu4d94t taijpn5t ni8dbmo4 stjgntxs k4urcfbm tv7at329" role="button" tabindex="0">...</div> is not clickable at point (1149, 317). Other element would receive the click: <img class="ljni7pan cb02d2ww e72ty7fz qlfml3jp inkptoze qmr60zad" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/36695415_10204804926918354_3824306122366386176_n.jpg?_nc_cat=101&amp;_nc_sid=7206a8&amp;_nc_oc=AQmMk7Zk8gfUtdm3xgJcxOfXb-joXmp3qagpJzyWFvl03HiWByTMOXGuKRE9_iY5q0g&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_tp=6&amp;oh=c2ab84e521234354ae920c1c4bb8054f&amp;oe=5F10E310">
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51165}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5434ed65c7ac86452ec7b3f76793f0f2
+2020-06-18 14:41:51,594 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:41:55,105 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:41:55,336 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:42:00,428 [main] INFO Facebook - Listing an item
+2020-06-18 14:42:00,995 [main] INFO Facebook - Item for Sell
+2020-06-18 14:42:15,606 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:42:16,031 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:42:16,206 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:42:18,339 [main] INFO Facebook - Selecting Category
+2020-06-18 14:42:25,605 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:42:30,232 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:42:37,615 [main] INFO Facebook - Setting Location
+2020-06-18 14:42:40,874 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:42:46,090 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:40:57,563 [main] INFO Facebook - 
+2020-06-18 14:42:46,090 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:40:57,628 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:41:03,749 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:46:23,889 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:46:27,042 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:46:27,220 [main] INFO Facebook - Password has been entered
-2020-06-12 16:46:27,289 [main] INFO Facebook - Logging in...
-2020-06-12 16:46:32,628 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:46:37,739 [main] INFO Facebook - Listing an item
-2020-06-12 16:46:38,217 [main] INFO Facebook - Item for Sell
-2020-06-12 16:46:52,838 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:46:53,335 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:46:53,512 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:46:55,653 [main] INFO Facebook - Selecting Category
-2020-06-12 16:47:02,919 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:47:07,776 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:47:15,145 [main] INFO Facebook - Setting Location
-2020-06-12 16:47:18,502 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:47:23,561 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:42:46,148 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 14:42:55,273 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 14:44:06,171 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:44:09,259 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:44:12,695 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:44:17,799 [main] INFO Facebook - Listing an item
+2020-06-18 14:44:18,573 [main] INFO Facebook - Item for Sell
+2020-06-18 14:44:33,185 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:44:33,619 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:44:33,792 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:44:35,957 [main] INFO Facebook - Selecting Category
+2020-06-18 14:44:43,221 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:44:47,839 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:44:55,177 [main] INFO Facebook - Setting Location
+2020-06-18 14:44:58,425 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:45:07,242 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:47:23,561 [main] INFO Facebook - 
+2020-06-18 14:45:07,242 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:47:23,618 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:47:29,765 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:48:53,394 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:48:56,459 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:48:56,629 [main] INFO Facebook - Password has been entered
-2020-06-12 16:48:56,699 [main] INFO Facebook - Logging in...
-2020-06-12 16:50:16,423 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:50:19,512 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:50:19,656 [main] INFO Facebook - Password has been entered
-2020-06-12 16:50:19,725 [main] INFO Facebook - Logging in...
-2020-06-12 16:51:05,528 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:51:08,615 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:51:08,768 [main] INFO Facebook - Password has been entered
-2020-06-12 16:51:09,691 [main] INFO Facebook - Logging in...
-2020-06-12 16:51:14,805 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:51:19,909 [main] INFO Facebook - Listing an item
-2020-06-12 16:51:20,396 [main] INFO Facebook - Item for Sell
-2020-06-12 16:51:35,048 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:51:35,483 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:51:35,676 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:51:37,803 [main] INFO Facebook - Selecting Category
-2020-06-12 16:51:45,015 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:51:49,566 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:51:56,955 [main] INFO Facebook - Setting Location
-2020-06-12 16:52:00,207 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:52:05,254 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:45:07,317 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 14:45:16,449 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 14:45:26,526 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-18 14:46:50,832 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 14:46:54,200 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 14:46:54,295 [main] INFO Facebook - Clicking Market Place
+2020-06-18 14:46:59,390 [main] INFO Facebook - Listing an item
+2020-06-18 14:46:59,944 [main] INFO Facebook - Item for Sell
+2020-06-18 14:47:14,546 [main] INFO Facebook - Adding Item Photo
+2020-06-18 14:47:14,964 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 14:47:15,118 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 14:47:17,262 [main] INFO Facebook - Selecting Category
+2020-06-18 14:47:25,375 [main] INFO Facebook - Setting condition for Item
+2020-06-18 14:47:29,974 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 14:47:37,361 [main] INFO Facebook - Setting Location
+2020-06-18 14:47:40,622 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 14:47:45,666 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:52:05,255 [main] INFO Facebook - 
+2020-06-18 14:47:45,666 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:52:05,309 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:52:11,420 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:53:18,649 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 16:53:21,661 [main] INFO Facebook - User Name has been entered
-2020-06-12 16:53:21,829 [main] INFO Facebook - Password has been entered
-2020-06-12 16:53:21,904 [main] INFO Facebook - Logging in...
-2020-06-12 16:53:27,203 [main] INFO Facebook - Clicking Market Place
-2020-06-12 16:53:32,329 [main] INFO Facebook - Listing an item
-2020-06-12 16:53:32,817 [main] INFO Facebook - Item for Sell
-2020-06-12 16:53:47,554 [main] INFO Facebook - Adding Item Photo
-2020-06-12 16:53:47,983 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 16:53:48,175 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 16:53:50,295 [main] INFO Facebook - Selecting Category
-2020-06-12 16:53:57,518 [main] INFO Facebook - Setting condition for Item
-2020-06-12 16:54:02,112 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 16:54:09,476 [main] INFO Facebook - Setting Location
-2020-06-12 16:54:12,710 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 16:54:17,762 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 14:47:45,719 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 14:47:54,868 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 14:48:04,915 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-18 18:14:03,325 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 18:14:06,816 [main] INFO Facebook - User Name has been entered
+2020-06-18 18:14:06,978 [main] INFO Facebook - Password has been entered
+2020-06-18 18:14:07,092 [main] INFO Facebook - Logging in...
+2020-06-18 18:14:15,300 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 18:14:19,739 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 18:14:20,381 [main] INFO Facebook - Clicking Market Place
+2020-06-18 18:16:15,445 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 18:16:18,981 [main] INFO Facebook - User Name has been entered
+2020-06-18 18:16:19,158 [main] INFO Facebook - Password has been entered
+2020-06-18 18:16:19,225 [main] INFO Facebook - Logging in...
+2020-06-18 18:16:27,394 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-18 18:16:30,638 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-18 18:16:33,166 [main] INFO Facebook - Clicking Market Place
+2020-06-18 18:16:38,269 [main] INFO Facebook - Listing an item
+2020-06-18 18:16:38,883 [main] INFO Facebook - Item for Sell
+2020-06-18 18:16:53,587 [main] INFO Facebook - Adding Item Photo
+2020-06-18 18:16:54,085 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-18 18:16:54,277 [main] INFO Facebook - Setting Item price as : 420
+2020-06-18 18:16:56,421 [main] INFO Facebook - Selecting Category
+2020-06-18 18:17:03,698 [main] INFO Facebook - Setting condition for Item
+2020-06-18 18:17:08,696 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-18 18:17:16,131 [main] INFO Facebook - Setting Location
+2020-06-18 18:17:19,373 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-18 18:17:24,419 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 16:54:17,762 [main] INFO Facebook - 
+2020-06-18 18:17:24,419 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 16:54:17,815 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 16:54:23,978 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 16:54:23,979 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:00:10,588 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:00:13,691 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:00:13,803 [main] INFO Facebook - Password has been entered
-2020-06-12 17:00:13,875 [main] INFO Facebook - Logging in...
-2020-06-12 17:00:19,285 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:00:24,407 [main] INFO Facebook - Listing an item
-2020-06-12 17:00:24,929 [main] INFO Facebook - Item for Sell
-2020-06-12 17:00:39,431 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:00:39,921 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:00:40,124 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:00:42,249 [main] INFO Facebook - Selecting Category
-2020-06-12 17:00:49,451 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:00:54,281 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:01:01,743 [main] INFO Facebook - Setting Location
-2020-06-12 17:01:04,940 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:01:49,125 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:01:52,249 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:01:52,396 [main] INFO Facebook - Password has been entered
-2020-06-12 17:01:52,462 [main] INFO Facebook - Logging in...
-2020-06-12 17:01:58,007 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:02:03,141 [main] INFO Facebook - Listing an item
-2020-06-12 17:02:03,705 [main] INFO Facebook - Item for Sell
-2020-06-12 17:02:18,275 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:02:18,719 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:02:18,872 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:02:21,045 [main] INFO Facebook - Selecting Category
-2020-06-12 17:02:28,248 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:02:32,888 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:02:40,344 [main] INFO Facebook - Setting Location
-2020-06-12 17:02:43,637 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:02:48,680 [main] INFO Facebook - Verifying item title and price 
+2020-06-18 18:17:24,476 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-18 18:17:33,603 [main] INFO Facebook - Verifying item is deleted...
+2020-06-18 18:17:43,681 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-19 11:06:52,842 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 11:06:56,842 [main] INFO Facebook - User Name has been entered
+2020-06-19 11:06:56,956 [main] INFO Facebook - Password has been entered
+2020-06-19 11:06:57,046 [main] INFO Facebook - Logging in...
+2020-06-19 11:13:26,463 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 11:13:30,221 [main] INFO Facebook - User Name has been entered
+2020-06-19 11:13:30,363 [main] INFO Facebook - Password has been entered
+2020-06-19 11:13:30,429 [main] INFO Facebook - Logging in...
+2020-06-19 11:36:36,769 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 11:54:07,619 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 11:54:11,389 [main] INFO Facebook - User Name has been entered
+2020-06-19 11:54:11,541 [main] INFO Facebook - Password has been entered
+2020-06-19 11:54:11,607 [main] INFO Facebook - Logging in...
+2020-06-19 11:54:23,736 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 11:54:27,169 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 11:54:27,281 [main] INFO Facebook - Clicking Market Place
+2020-06-19 11:54:32,367 [main] INFO Facebook - Listing an item
+2020-06-19 11:54:32,943 [main] INFO Facebook - Item for Sell
+2020-06-19 11:54:47,464 [main] INFO Facebook - Adding Item Photo
+2020-06-19 11:54:47,882 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 11:54:48,069 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 11:54:50,223 [main] INFO Facebook - Selecting Category
+2020-06-19 11:54:57,527 [main] INFO Facebook - Setting condition for Item
+2020-06-19 11:55:02,176 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-19 11:55:09,540 [main] INFO Facebook - Setting Location
+2020-06-19 11:55:12,796 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-19 11:55:17,870 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:02:48,681 [main] INFO Facebook - 
+2020-06-19 11:55:17,870 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:04:12,001 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:04:15,273 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:04:15,391 [main] INFO Facebook - Password has been entered
-2020-06-12 17:04:15,475 [main] INFO Facebook - Logging in...
-2020-06-12 17:04:20,849 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:04:25,936 [main] INFO Facebook - Listing an item
-2020-06-12 17:04:26,481 [main] INFO Facebook - Item for Sell
-2020-06-12 17:04:41,033 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:04:41,456 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:04:41,616 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:04:43,753 [main] INFO Facebook - Selecting Category
-2020-06-12 17:04:50,951 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:04:55,590 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:05:03,097 [main] INFO Facebook - Setting Location
-2020-06-12 17:05:06,387 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:05:11,438 [main] INFO Facebook - Verifying item title and price 
+2020-06-19 11:55:17,926 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-19 11:55:27,033 [main] INFO Facebook - Verifying item is deleted...
+2020-06-19 11:55:37,099 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-19 14:12:08,714 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:12:11,923 [main] INFO Facebook - User Name has been entered
+2020-06-19 14:12:12,087 [main] INFO Facebook - Password has been entered
+2020-06-19 14:12:12,885 [main] INFO Facebook - Logging in...
+2020-06-19 14:12:25,025 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:12:27,919 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 14:12:28,260 [main] INFO Facebook - Clicking Market Place
+2020-06-19 14:12:33,369 [main] INFO Facebook - Listing an item
+2020-06-19 14:12:33,860 [main] INFO Facebook - Item for Sell
+2020-06-19 14:12:48,440 [main] INFO Facebook - Adding Item Photo
+2020-06-19 14:12:48,831 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 14:12:49,001 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 14:22:20,537 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:22:23,836 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 14:22:23,933 [main] INFO Facebook - Clicking Market Place
+2020-06-19 14:22:29,036 [main] INFO Facebook - Listing an item
+2020-06-19 14:22:29,784 [main] INFO Facebook - Item for Sell
+2020-06-19 14:22:44,620 [main] INFO Facebook - Adding Item Photo
+2020-06-19 14:22:45,024 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 14:22:45,195 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 14:22:47,362 [main] INFO Facebook - Selecting Category
+2020-06-19 14:23:01,575 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(.,'Condition')]/following-sibling::div"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7402ddefcfa757ac0af78a66c3b3955d
+*** Element info: {Using=xpath, value=//span[contains(.,'Condition')]/following-sibling::div}
+2020-06-19 14:49:21,291 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:49:24,661 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 14:49:24,785 [main] INFO Facebook - Clicking Market Place
+2020-06-19 14:49:29,882 [main] INFO Facebook - Listing an item
+2020-06-19 14:49:30,444 [main] INFO Facebook - Item for Sell
+2020-06-19 14:49:45,010 [main] INFO Facebook - Adding Item Photo
+2020-06-19 14:49:45,428 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 14:49:45,610 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 14:49:47,748 [main] INFO Facebook - Selecting Category
+2020-06-19 14:50:01,957 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(.,'Condition')]/following-sibling::div"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bb77abb48b04e6ec794ad5c45ac0706e
+*** Element info: {Using=xpath, value=//span[contains(.,'Condition')]/following-sibling::div}
+2020-06-19 14:53:30,106 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:53:33,263 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 14:53:36,433 [main] INFO Facebook - Clicking Market Place
+2020-06-19 14:53:41,535 [main] INFO Facebook - Listing an item
+2020-06-19 14:53:42,066 [main] INFO Facebook - Item for Sell
+2020-06-19 14:53:56,639 [main] INFO Facebook - Adding Item Photo
+2020-06-19 14:53:57,070 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 14:53:57,275 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 14:53:59,411 [main] INFO Facebook - Selecting Category
+2020-06-19 14:54:12,652 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b02fbac40de84cf4d55b28b997fbfdcf
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-19 14:59:01,569 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 14:59:04,860 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 14:59:04,960 [main] INFO Facebook - Clicking Market Place
+2020-06-19 14:59:11,349 [main] INFO Facebook - Listing an item
+2020-06-19 14:59:11,858 [main] INFO Facebook - Item for Sell
+2020-06-19 14:59:26,334 [main] INFO Facebook - Adding Item Photo
+2020-06-19 14:59:26,738 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 14:59:26,920 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 14:59:29,056 [main] INFO Facebook - Selecting Category
+2020-06-19 14:59:42,231 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2058a324aaaccc03ef3e410aad40b875
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-19 15:00:15,221 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 15:00:18,369 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 15:00:21,118 [main] INFO Facebook - Clicking Market Place
+2020-06-19 15:00:26,233 [main] INFO Facebook - Listing an item
+2020-06-19 15:00:26,778 [main] INFO Facebook - Item for Sell
+2020-06-19 15:00:41,373 [main] INFO Facebook - Adding Item Photo
+2020-06-19 15:00:41,839 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 15:00:42,009 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 15:00:44,038 [main] INFO Facebook - Selecting Category
+2020-06-19 15:00:57,282 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60942}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b1bc6026afe1cd02973c47bd6ca9329a
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-19 15:10:30,105 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 15:10:33,385 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 15:10:33,573 [main] INFO Facebook - Clicking Market Place
+2020-06-19 15:10:38,666 [main] INFO Facebook - Listing an item
+2020-06-19 15:10:39,144 [main] INFO Facebook - Item for Sell
+2020-06-19 15:10:53,627 [main] INFO Facebook - Adding Item Photo
+2020-06-19 15:10:54,004 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 15:10:54,166 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 15:10:56,215 [main] INFO Facebook - Selecting Category
+2020-06-19 15:11:09,450 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61365}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6d97a27be665e93f6adee51082eac1de
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-19 15:11:20,311 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 15:11:23,587 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 15:11:23,677 [main] INFO Facebook - Clicking Market Place
+2020-06-19 15:11:28,809 [main] INFO Facebook - Listing an item
+2020-06-19 15:11:29,364 [main] INFO Facebook - Item for Sell
+2020-06-19 15:11:44,180 [main] INFO Facebook - Adding Item Photo
+2020-06-19 15:11:44,601 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 15:11:44,773 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 15:11:46,908 [main] INFO Facebook - Selecting Category
+2020-06-19 15:12:00,080 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Men')]"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I61C6HS', ip: '10.0.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\ahmed\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61436}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f72f7eb9bf2ce370c7c8a3ccf04c954c
+*** Element info: {Using=xpath, value=//span[contains(text(),'Men')]}
+2020-06-19 17:10:39,155 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 17:10:42,455 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 17:10:44,957 [main] INFO Facebook - Clicking Market Place
+2020-06-19 17:15:34,668 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 17:15:37,941 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 17:15:38,074 [main] INFO Facebook - Clicking Market Place
+2020-06-19 17:18:07,449 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 17:18:11,208 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 17:18:11,454 [main] INFO Facebook - Clicking Market Place
+2020-06-19 17:37:11,105 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 17:37:14,383 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 17:37:17,551 [main] INFO Facebook - Clicking Market Place
+2020-06-19 17:37:22,669 [main] INFO Facebook - Listing an item
+2020-06-19 17:37:23,264 [main] INFO Facebook - Item for Sell
+2020-06-19 17:37:38,041 [main] INFO Facebook - Adding Item Photo
+2020-06-19 17:37:38,652 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 17:37:38,836 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 17:37:40,991 [main] INFO Facebook - Selecting Category
+2020-06-19 17:37:49,354 [main] INFO Facebook - Setting condition for Item
+2020-06-19 17:37:54,567 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-19 17:38:01,958 [main] INFO Facebook - Setting Location
+2020-06-19 17:38:05,225 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-19 17:38:10,271 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:05:11,439 [main] INFO Facebook - 
+2020-06-19 17:38:10,271 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:06:32,745 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:06:36,181 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:06:36,335 [main] INFO Facebook - Password has been entered
-2020-06-12 17:06:36,402 [main] INFO Facebook - Logging in...
-2020-06-12 17:06:41,661 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:06:46,751 [main] INFO Facebook - Listing an item
-2020-06-12 17:06:47,205 [main] INFO Facebook - Item for Sell
-2020-06-12 17:07:01,779 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:07:02,283 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:07:02,460 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:07:04,571 [main] INFO Facebook - Selecting Category
-2020-06-12 17:07:11,837 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:07:16,557 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:07:23,997 [main] INFO Facebook - Setting Location
-2020-06-12 17:07:27,216 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:07:32,290 [main] INFO Facebook - Verifying item title and price 
+2020-06-19 17:38:10,330 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-19 17:38:19,453 [main] INFO Facebook - Verifying item is deleted...
+2020-06-19 17:38:29,513 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-19 17:46:47,715 [main] INFO Facebook - Initializing ChromeDriver..
+2020-06-19 17:46:50,991 [main] INFO Facebook - Bypass Login Credentials..
+2020-06-19 17:46:55,406 [main] INFO Facebook - Clicking Market Place
+2020-06-19 17:47:00,540 [main] INFO Facebook - Listing an item
+2020-06-19 17:47:00,905 [main] INFO Facebook - Item for Sell
+2020-06-19 17:47:15,760 [main] INFO Facebook - Adding Item Photo
+2020-06-19 17:47:16,275 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
+2020-06-19 17:47:16,497 [main] INFO Facebook - Setting Item price as : 420
+2020-06-19 17:47:18,623 [main] INFO Facebook - Selecting Category
+2020-06-19 17:47:27,882 [main] INFO Facebook - Setting condition for Item
+2020-06-19 17:47:33,007 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
+2020-06-19 17:47:40,487 [main] INFO Facebook - Setting Location
+2020-06-19 17:47:43,717 [main] INFO Facebook - Publishing Listing in Market place .......
+2020-06-19 17:47:48,818 [main] INFO Facebook - Verifying item title and price 
  Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:07:32,291 [main] INFO Facebook - 
+2020-06-19 17:47:48,818 [main] INFO Facebook - 
  Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:07:32,349 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:07:38,502 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:07:38,535 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:09:24,397 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:09:27,540 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:09:27,709 [main] INFO Facebook - Password has been entered
-2020-06-12 17:09:27,775 [main] INFO Facebook - Logging in...
-2020-06-12 17:09:33,000 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:09:38,094 [main] INFO Facebook - Listing an item
-2020-06-12 17:09:38,439 [main] INFO Facebook - Item for Sell
-2020-06-12 17:09:53,019 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:09:53,515 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:09:53,679 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:09:55,813 [main] INFO Facebook - Selecting Category
-2020-06-12 17:10:03,092 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:10:07,882 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:10:15,285 [main] INFO Facebook - Setting Location
-2020-06-12 17:10:18,543 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:10:23,618 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:10:23,619 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:10:23,677 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:10:29,778 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:12:15,426 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:12:18,734 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:12:18,863 [main] INFO Facebook - Password has been entered
-2020-06-12 17:12:18,932 [main] INFO Facebook - Logging in...
-2020-06-12 17:12:28,810 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:12:33,912 [main] INFO Facebook - Listing an item
-2020-06-12 17:12:34,414 [main] INFO Facebook - Item for Sell
-2020-06-12 17:12:49,236 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:12:49,722 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:12:49,886 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:12:52,027 [main] INFO Facebook - Selecting Category
-2020-06-12 17:12:59,306 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:13:04,104 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:13:11,559 [main] INFO Facebook - Setting Location
-2020-06-12 17:13:14,847 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:13:19,902 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:13:19,903 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:17:53,621 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:17:56,964 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:17:57,185 [main] INFO Facebook - Password has been entered
-2020-06-12 17:17:57,263 [main] INFO Facebook - Logging in...
-2020-06-12 17:18:02,502 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:18:07,586 [main] INFO Facebook - Listing an item
-2020-06-12 17:18:08,122 [main] INFO Facebook - Item for Sell
-2020-06-12 17:18:22,953 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:18:23,373 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:18:23,575 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:18:25,709 [main] INFO Facebook - Selecting Category
-2020-06-12 17:18:32,898 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:18:37,502 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:18:44,911 [main] INFO Facebook - Setting Location
-2020-06-12 17:18:48,152 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:18:53,206 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:18:53,207 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:18:53,269 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:18:59,394 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:19:31,845 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:19:35,166 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:19:35,304 [main] INFO Facebook - Password has been entered
-2020-06-12 17:19:35,408 [main] INFO Facebook - Logging in...
-2020-06-12 17:19:40,695 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:19:45,813 [main] INFO Facebook - Listing an item
-2020-06-12 17:19:46,330 [main] INFO Facebook - Item for Sell
-2020-06-12 17:20:01,281 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:20:01,690 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:20:01,869 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:20:04,002 [main] INFO Facebook - Selecting Category
-2020-06-12 17:20:11,150 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:20:15,768 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:20:23,125 [main] INFO Facebook - Setting Location
-2020-06-12 17:20:26,336 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:20:31,388 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:20:31,389 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:20:31,441 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:20:37,566 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:25:45,724 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:25:49,044 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:25:49,387 [main] INFO Facebook - Password has been entered
-2020-06-12 17:25:49,471 [main] INFO Facebook - Logging in...
-2020-06-12 17:25:54,622 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:25:59,705 [main] INFO Facebook - Listing an item
-2020-06-12 17:26:00,195 [main] INFO Facebook - Item for Sell
-2020-06-12 17:26:14,830 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:26:15,272 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:26:15,445 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:26:17,590 [main] INFO Facebook - Selecting Category
-2020-06-12 17:26:24,755 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:26:30,206 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:26:37,560 [main] INFO Facebook - Setting Location
-2020-06-12 17:26:40,812 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:26:45,865 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:26:45,866 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:26:45,922 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:26:52,036 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:26:52,092 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:32:57,689 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:33:00,805 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:33:00,959 [main] INFO Facebook - Password has been entered
-2020-06-12 17:33:01,021 [main] INFO Facebook - Logging in...
-2020-06-12 17:33:06,162 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:33:11,260 [main] INFO Facebook - Listing an item
-2020-06-12 17:33:11,723 [main] INFO Facebook - Item for Sell
-2020-06-12 17:33:26,414 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:33:26,854 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:33:27,025 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:33:29,156 [main] INFO Facebook - Selecting Category
-2020-06-12 17:33:36,352 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:33:40,953 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:33:48,327 [main] INFO Facebook - Setting Location
-2020-06-12 17:33:51,556 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:33:56,608 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:33:56,609 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:33:56,664 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:34:02,792 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:34:12,849 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:34:33,081 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:34:36,215 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:34:36,375 [main] INFO Facebook - Password has been entered
-2020-06-12 17:34:36,449 [main] INFO Facebook - Logging in...
-2020-06-12 17:34:41,642 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:34:46,748 [main] INFO Facebook - Listing an item
-2020-06-12 17:34:47,301 [main] INFO Facebook - Item for Sell
-2020-06-12 17:35:02,013 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:35:02,446 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:35:02,655 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:35:04,792 [main] INFO Facebook - Selecting Category
-2020-06-12 17:35:11,985 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:35:16,576 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:35:23,953 [main] INFO Facebook - Setting Location
-2020-06-12 17:35:27,196 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:35:32,249 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:35:32,250 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:35:32,301 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:35:38,430 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:36:22,519 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:36:26,234 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:36:26,317 [main] INFO Facebook - Password has been entered
-2020-06-12 17:36:26,391 [main] INFO Facebook - Logging in...
-2020-06-12 17:36:31,813 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:36:36,908 [main] INFO Facebook - Listing an item
-2020-06-12 17:36:37,450 [main] INFO Facebook - Item for Sell
-2020-06-12 17:36:52,082 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:36:52,533 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:36:52,709 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:36:54,855 [main] INFO Facebook - Selecting Category
-2020-06-12 17:37:02,090 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:37:06,662 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:37:14,025 [main] INFO Facebook - Setting Location
-2020-06-12 17:37:17,254 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:37:22,326 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:37:22,327 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:37:22,380 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:37:28,510 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:37:38,585 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:38:02,975 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:38:06,342 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:38:06,482 [main] INFO Facebook - Password has been entered
-2020-06-12 17:38:06,552 [main] INFO Facebook - Logging in...
-2020-06-12 17:38:11,767 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:38:16,879 [main] INFO Facebook - Listing an item
-2020-06-12 17:38:17,394 [main] INFO Facebook - Item for Sell
-2020-06-12 17:38:31,958 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:38:32,421 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:38:32,605 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:38:34,714 [main] INFO Facebook - Selecting Category
-2020-06-12 17:38:41,878 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:38:46,426 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:38:53,830 [main] INFO Facebook - Setting Location
-2020-06-12 17:38:57,076 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:39:02,122 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:39:02,123 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:39:02,179 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:39:08,300 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:39:18,362 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 17:39:37,905 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 17:39:40,893 [main] INFO Facebook - User Name has been entered
-2020-06-12 17:39:40,978 [main] INFO Facebook - Password has been entered
-2020-06-12 17:39:54,605 [main] INFO Facebook - Logging in...
-2020-06-12 17:39:59,744 [main] INFO Facebook - Clicking Market Place
-2020-06-12 17:40:04,833 [main] INFO Facebook - Listing an item
-2020-06-12 17:40:05,252 [main] INFO Facebook - Item for Sell
-2020-06-12 17:40:19,772 [main] INFO Facebook - Adding Item Photo
-2020-06-12 17:40:20,277 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 17:40:20,443 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 17:40:22,560 [main] INFO Facebook - Selecting Category
-2020-06-12 17:40:29,751 [main] INFO Facebook - Setting condition for Item
-2020-06-12 17:40:34,317 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 17:40:41,751 [main] INFO Facebook - Setting Location
-2020-06-12 17:40:45,004 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 17:40:50,055 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 17:40:50,055 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 17:40:50,107 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 17:40:56,210 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 17:41:06,266 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 18:38:46,427 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 18:38:51,024 [main] INFO Facebook - User Name has been entered
-2020-06-12 18:38:51,171 [main] INFO Facebook - Password has been entered
-2020-06-12 18:38:51,321 [main] INFO Facebook - Logging in...
-2020-06-12 18:38:56,955 [main] INFO Facebook - Clicking Market Place
-2020-06-12 18:39:02,048 [main] INFO Facebook - Listing an item
-2020-06-12 18:39:02,760 [main] INFO Facebook - Item for Sell
-2020-06-12 18:39:17,379 [main] INFO Facebook - Adding Item Photo
-2020-06-12 18:39:17,978 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 18:39:18,202 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 18:39:20,431 [main] INFO Facebook - Selecting Category
-2020-06-12 18:39:27,708 [main] INFO Facebook - Setting condition for Item
-2020-06-12 18:39:33,017 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 18:39:40,498 [main] INFO Facebook - Setting Location
-2020-06-12 18:39:43,797 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 18:39:48,849 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 18:39:48,850 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 18:39:48,913 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 18:39:55,038 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 18:40:05,059 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 18:40:55,161 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 18:40:58,609 [main] INFO Facebook - User Name has been entered
-2020-06-12 18:40:58,767 [main] INFO Facebook - Password has been entered
-2020-06-12 18:40:58,874 [main] INFO Facebook - Logging in...
-2020-06-12 19:10:59,092 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 19:11:02,946 [main] INFO Facebook - User Name has been entered
-2020-06-12 19:11:03,068 [main] INFO Facebook - Password has been entered
-2020-06-12 19:11:03,166 [main] INFO Facebook - Logging in...
-2020-06-12 19:11:08,519 [main] INFO Facebook - Clicking Market Place
-2020-06-12 19:11:13,624 [main] INFO Facebook - Listing an item
-2020-06-12 19:11:14,189 [main] INFO Facebook - Item for Sell
-2020-06-12 19:11:28,956 [main] INFO Facebook - Adding Item Photo
-2020-06-12 19:11:29,352 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 19:11:29,505 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 19:11:31,615 [main] INFO Facebook - Selecting Category
-2020-06-12 19:11:38,779 [main] INFO Facebook - Setting condition for Item
-2020-06-12 19:11:43,253 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 19:11:50,603 [main] INFO Facebook - Setting Location
-2020-06-12 19:11:53,876 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 19:11:58,922 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 19:11:58,923 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 19:11:58,978 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 19:12:05,111 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 19:12:15,145 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 19:19:57,614 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 19:20:01,341 [main] INFO Facebook - User Name has been entered
-2020-06-12 19:20:01,516 [main] INFO Facebook - Password has been entered
-2020-06-12 19:20:01,629 [main] INFO Facebook - Logging in...
-2020-06-12 19:20:07,256 [main] INFO Facebook - Clicking Market Place
-2020-06-12 19:20:12,349 [main] INFO Facebook - Listing an item
-2020-06-12 19:20:12,896 [main] INFO Facebook - Item for Sell
-2020-06-12 19:20:27,920 [main] INFO Facebook - Adding Item Photo
-2020-06-12 19:20:28,354 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 19:20:28,531 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 19:20:30,646 [main] INFO Facebook - Selecting Category
-2020-06-12 19:20:37,817 [main] INFO Facebook - Setting condition for Item
-2020-06-12 19:20:42,639 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 19:20:49,984 [main] INFO Facebook - Setting Location
-2020-06-12 19:20:53,235 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 19:20:58,281 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 19:20:58,282 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 19:20:58,354 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 19:21:04,484 [main] INFO Facebook - Verifying item is deleted...
-2020-06-12 19:21:14,520 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-12 19:38:58,638 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 19:44:49,642 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-12 19:44:52,853 [main] INFO Facebook - User Name has been entered
-2020-06-12 19:44:53,022 [main] INFO Facebook - Password has been entered
-2020-06-12 19:44:53,116 [main] INFO Facebook - Logging in...
-2020-06-12 19:44:58,779 [main] INFO Facebook - Clicking Market Place
-2020-06-12 19:45:03,879 [main] INFO Facebook - Listing an item
-2020-06-12 19:45:04,301 [main] INFO Facebook - Item for Sell
-2020-06-12 19:45:18,933 [main] INFO Facebook - Adding Item Photo
-2020-06-12 19:45:19,335 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-12 19:45:19,513 [main] INFO Facebook - Setting Item price as : 420
-2020-06-12 19:45:26,635 [main] INFO Facebook - Selecting Category
-2020-06-12 19:45:43,802 [main] INFO Facebook - Setting condition for Item
-2020-06-12 19:45:53,607 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-12 19:46:00,990 [main] INFO Facebook - Setting Location
-2020-06-12 19:46:04,246 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-12 19:46:09,292 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-12 19:46:09,293 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-12 19:46:09,356 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-12 19:46:15,458 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 21:49:03,176 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 21:49:06,592 [main] INFO Facebook - User Name has been entered
-2020-06-14 21:49:06,726 [main] INFO Facebook - Password has been entered
-2020-06-14 21:49:06,812 [main] INFO Facebook - Logging in...
-2020-06-14 21:49:11,944 [main] INFO Facebook - Clicking Market Place
-2020-06-14 21:49:17,033 [main] INFO Facebook - Listing an item
-2020-06-14 21:49:17,646 [main] INFO Facebook - Item for Sell
-2020-06-14 21:49:32,292 [main] INFO Facebook - Adding Item Photo
-2020-06-14 21:49:32,666 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 21:49:32,818 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 21:49:34,926 [main] INFO Facebook - Selecting Category
-2020-06-14 21:49:42,130 [main] INFO Facebook - Setting condition for Item
-2020-06-14 21:49:46,585 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 21:49:53,921 [main] INFO Facebook - Setting Location
-2020-06-14 21:49:57,187 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:00:25,779 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:00:29,618 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:00:29,832 [main] INFO Facebook - Password has been entered
-2020-06-14 22:00:29,897 [main] INFO Facebook - Logging in...
-2020-06-14 22:00:35,002 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:00:40,126 [main] INFO Facebook - Listing an item
-2020-06-14 22:00:40,627 [main] INFO Facebook - Item for Sell
-2020-06-14 22:00:55,159 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:00:55,574 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:00:55,772 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:05:36,284 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:05:39,771 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:05:39,940 [main] INFO Facebook - Password has been entered
-2020-06-14 22:05:40,008 [main] INFO Facebook - Logging in...
-2020-06-14 22:05:45,119 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:05:50,220 [main] INFO Facebook - Listing an item
-2020-06-14 22:05:50,758 [main] INFO Facebook - Item for Sell
-2020-06-14 22:06:05,303 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:06:05,705 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:06:05,856 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:06:07,998 [main] INFO Facebook - Selecting Category
-2020-06-14 22:07:58,083 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:08:01,426 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:08:01,602 [main] INFO Facebook - Password has been entered
-2020-06-14 22:08:01,669 [main] INFO Facebook - Logging in...
-2020-06-14 22:08:06,888 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:08:11,978 [main] INFO Facebook - Listing an item
-2020-06-14 22:08:12,507 [main] INFO Facebook - Item for Sell
-2020-06-14 22:08:27,027 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:08:27,398 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:08:27,553 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:10:23,025 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:10:26,113 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:10:26,292 [main] INFO Facebook - Password has been entered
-2020-06-14 22:10:26,369 [main] INFO Facebook - Logging in...
-2020-06-14 22:10:31,493 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:10:36,601 [main] INFO Facebook - Listing an item
-2020-06-14 22:10:37,125 [main] INFO Facebook - Item for Sell
-2020-06-14 22:10:51,765 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:10:52,153 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:10:52,302 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:10:54,434 [main] INFO Facebook - Selecting Category
-2020-06-14 22:13:52,009 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:13:55,218 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:13:55,385 [main] INFO Facebook - Password has been entered
-2020-06-14 22:13:55,463 [main] INFO Facebook - Logging in...
-2020-06-14 22:14:00,621 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:14:05,715 [main] INFO Facebook - Listing an item
-2020-06-14 22:14:06,055 [main] INFO Facebook - Item for Sell
-2020-06-14 22:15:05,544 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:15:08,793 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:15:08,995 [main] INFO Facebook - Password has been entered
-2020-06-14 22:15:09,063 [main] INFO Facebook - Logging in...
-2020-06-14 22:15:14,199 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:15:19,311 [main] INFO Facebook - Listing an item
-2020-06-14 22:15:19,787 [main] INFO Facebook - Item for Sell
-2020-06-14 22:15:34,369 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:15:34,791 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:15:34,964 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:15:37,099 [main] INFO Facebook - Selecting Category
-2020-06-14 22:15:44,329 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:15:48,984 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:15:56,374 [main] INFO Facebook - Setting Location
-2020-06-14 22:15:59,621 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:16:04,672 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:16:04,673 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:16:04,724 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:16:10,852 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:17:02,838 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:17:05,990 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:17:06,169 [main] INFO Facebook - Password has been entered
-2020-06-14 22:17:06,240 [main] INFO Facebook - Logging in...
-2020-06-14 22:17:11,346 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:17:16,448 [main] INFO Facebook - Listing an item
-2020-06-14 22:17:16,926 [main] INFO Facebook - Item for Sell
-2020-06-14 22:17:31,413 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:17:31,809 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:17:31,973 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:17:34,136 [main] INFO Facebook - Selecting Category
-2020-06-14 22:17:41,306 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:17:45,910 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:17:53,298 [main] INFO Facebook - Setting Location
-2020-06-14 22:17:56,554 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:18:01,597 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:18:01,598 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:18:01,652 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:18:07,770 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:18:17,817 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-14 22:21:58,452 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:22:01,421 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:22:01,545 [main] INFO Facebook - Password has been entered
-2020-06-14 22:22:11,686 [main] INFO Facebook - Logging in...
-2020-06-14 22:22:16,808 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:22:21,934 [main] INFO Facebook - Listing an item
-2020-06-14 22:22:22,424 [main] INFO Facebook - Item for Sell
-2020-06-14 22:22:36,917 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:22:37,347 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:22:37,499 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:22:39,619 [main] INFO Facebook - Selecting Category
-2020-06-14 22:22:46,879 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:22:51,408 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:22:58,854 [main] INFO Facebook - Setting Location
-2020-06-14 22:23:02,103 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:23:07,177 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:23:07,179 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:23:07,235 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:23:13,366 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:23:54,667 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:23:57,769 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:23:57,970 [main] INFO Facebook - Password has been entered
-2020-06-14 22:23:58,045 [main] INFO Facebook - Logging in...
-2020-06-14 22:24:03,339 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:24:08,444 [main] INFO Facebook - Listing an item
-2020-06-14 22:24:08,906 [main] INFO Facebook - Item for Sell
-2020-06-14 22:24:20,374 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:24:20,849 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:24:21,011 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:24:23,182 [main] INFO Facebook - Selecting Category
-2020-06-14 22:24:30,414 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:24:34,960 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:24:42,354 [main] INFO Facebook - Setting Location
-2020-06-14 22:24:45,667 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:24:50,729 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:24:50,729 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:24:50,794 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:24:56,963 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:25:44,537 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:25:47,772 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:25:47,949 [main] INFO Facebook - Password has been entered
-2020-06-14 22:25:48,017 [main] INFO Facebook - Logging in...
-2020-06-14 22:25:53,207 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:25:58,293 [main] INFO Facebook - Listing an item
-2020-06-14 22:25:58,755 [main] INFO Facebook - Item for Sell
-2020-06-14 22:26:13,305 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:26:13,727 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:26:13,917 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:26:16,067 [main] INFO Facebook - Selecting Category
-2020-06-14 22:26:23,323 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:26:27,918 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:26:35,280 [main] INFO Facebook - Setting Location
-2020-06-14 22:26:38,577 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:26:43,625 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:26:43,626 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:26:43,682 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:26:49,839 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:34:32,258 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:34:35,479 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:34:35,670 [main] INFO Facebook - Password has been entered
-2020-06-14 22:34:35,737 [main] INFO Facebook - Logging in...
-2020-06-14 22:34:40,961 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:34:46,065 [main] INFO Facebook - Listing an item
-2020-06-14 22:34:46,403 [main] INFO Facebook - Item for Sell
-2020-06-14 22:35:01,254 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:35:01,668 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:35:01,834 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:35:03,973 [main] INFO Facebook - Selecting Category
-2020-06-14 22:35:11,218 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:35:15,852 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:35:23,214 [main] INFO Facebook - Setting Location
-2020-06-14 22:35:26,505 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:35:31,606 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:35:31,608 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:35:31,667 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:35:39,046 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:36:52,111 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:36:55,297 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:36:55,492 [main] INFO Facebook - Password has been entered
-2020-06-14 22:36:55,562 [main] INFO Facebook - Logging in...
-2020-06-14 22:37:00,949 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:37:06,043 [main] INFO Facebook - Listing an item
-2020-06-14 22:37:06,528 [main] INFO Facebook - Item for Sell
-2020-06-14 22:37:21,161 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:37:21,547 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:37:21,704 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:37:23,821 [main] INFO Facebook - Selecting Category
-2020-06-14 22:37:31,112 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:37:35,722 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:37:43,084 [main] INFO Facebook - Setting Location
-2020-06-14 22:37:46,327 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:37:51,418 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:37:51,423 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:37:51,483 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:38:03,938 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:38:14,030 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-14 22:38:50,526 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 22:38:53,765 [main] INFO Facebook - User Name has been entered
-2020-06-14 22:38:53,861 [main] INFO Facebook - Password has been entered
-2020-06-14 22:39:04,026 [main] INFO Facebook - Logging in...
-2020-06-14 22:39:09,184 [main] INFO Facebook - Clicking Market Place
-2020-06-14 22:39:14,288 [main] INFO Facebook - Listing an item
-2020-06-14 22:39:14,790 [main] INFO Facebook - Item for Sell
-2020-06-14 22:39:29,496 [main] INFO Facebook - Adding Item Photo
-2020-06-14 22:39:29,945 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 22:39:30,119 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 22:39:32,304 [main] INFO Facebook - Selecting Category
-2020-06-14 22:39:39,524 [main] INFO Facebook - Setting condition for Item
-2020-06-14 22:39:44,122 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 22:39:51,478 [main] INFO Facebook - Setting Location
-2020-06-14 22:39:54,759 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 22:39:59,809 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 22:39:59,809 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 22:39:59,915 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 22:40:09,067 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 22:40:19,132 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-14 23:20:52,828 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:20:55,990 [main] INFO Facebook - User Name has been entered
-2020-06-14 23:20:56,181 [main] INFO Facebook - Password has been entered
-2020-06-14 23:20:56,247 [main] INFO Facebook - Logging in...
-2020-06-14 23:21:01,496 [main] INFO Facebook - Clicking Market Place
-2020-06-14 23:21:06,592 [main] INFO Facebook - Listing an item
-2020-06-14 23:21:07,144 [main] INFO Facebook - Item for Sell
-2020-06-14 23:21:21,913 [main] INFO Facebook - Adding Item Photo
-2020-06-14 23:21:22,333 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 23:21:22,487 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 23:21:24,643 [main] INFO Facebook - Selecting Category
-2020-06-14 23:21:31,814 [main] INFO Facebook - Setting condition for Item
-2020-06-14 23:21:36,398 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 23:21:43,780 [main] INFO Facebook - Setting Location
-2020-06-14 23:21:47,026 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 23:21:52,076 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 23:21:52,077 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 23:21:52,134 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 23:22:01,264 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 23:22:11,301 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-14 23:28:39,589 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:28:42,829 [main] INFO Facebook - User Name has been entered
-2020-06-14 23:28:42,947 [main] INFO Facebook - Password has been entered
-2020-06-14 23:28:43,035 [main] INFO Facebook - Logging in...
-2020-06-14 23:28:48,167 [main] INFO Facebook - Clicking Market Place
-2020-06-14 23:28:53,276 [main] INFO Facebook - Listing an item
-2020-06-14 23:28:53,789 [main] INFO Facebook - Item for Sell
-2020-06-14 23:29:08,246 [main] INFO Facebook - Adding Item Photo
-2020-06-14 23:29:08,685 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 23:29:08,850 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 23:29:10,988 [main] INFO Facebook - Selecting Category
-2020-06-14 23:29:18,203 [main] INFO Facebook - Setting condition for Item
-2020-06-14 23:29:22,848 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-14 23:29:30,225 [main] INFO Facebook - Setting Location
-2020-06-14 23:29:33,516 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-14 23:29:38,575 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-14 23:29:38,576 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-14 23:29:38,631 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-14 23:29:47,805 [main] INFO Facebook - Verifying item is deleted...
-2020-06-14 23:29:57,836 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-14 23:54:04,313 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:54:09,480 [main] INFO Facebook - Clicking Market Place
-2020-06-14 23:55:09,026 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:55:12,512 [main] INFO Facebook - User Name has been entered
-2020-06-14 23:55:12,638 [main] INFO Facebook - Password has been entered
-2020-06-14 23:55:12,753 [main] INFO Facebook - Logging in...
-2020-06-14 23:55:50,474 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:55:53,873 [main] INFO Facebook - User Name has been entered
-2020-06-14 23:55:54,056 [main] INFO Facebook - Password has been entered
-2020-06-14 23:55:54,162 [main] INFO Facebook - Logging in...
-2020-06-14 23:56:18,490 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:56:24,248 [main] INFO Facebook - Clicking Market Place
-2020-06-14 23:56:29,351 [main] INFO Facebook - Listing an item
-2020-06-14 23:56:29,694 [main] INFO Facebook - Item for Sell
-2020-06-14 23:56:44,637 [main] INFO Facebook - Adding Item Photo
-2020-06-14 23:56:45,218 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 23:56:45,460 [main] INFO Facebook - Setting Item price as : 420
-2020-06-14 23:57:50,353 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-14 23:57:54,976 [main] INFO Facebook - Clicking Market Place
-2020-06-14 23:58:00,101 [main] INFO Facebook - Listing an item
-2020-06-14 23:58:00,473 [main] INFO Facebook - Item for Sell
-2020-06-14 23:58:15,280 [main] INFO Facebook - Adding Item Photo
-2020-06-14 23:58:15,887 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-14 23:58:16,085 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:01:40,865 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:01:46,903 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:01:52,009 [main] INFO Facebook - Listing an item
-2020-06-15 00:01:52,610 [main] INFO Facebook - Item for Sell
-2020-06-15 00:02:07,252 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:02:07,775 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:02:10,034 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:03:18,197 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:03:21,484 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:03:26,598 [main] INFO Facebook - Listing an item
-2020-06-15 00:03:27,243 [main] INFO Facebook - Item for Sell
-2020-06-15 00:03:41,790 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:03:42,371 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:05:27,242 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:05:30,771 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:05:35,889 [main] INFO Facebook - Listing an item
-2020-06-15 00:05:36,421 [main] INFO Facebook - Item for Sell
-2020-06-15 00:05:50,969 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:05:51,523 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:05:53,752 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:05:54,915 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
-null
-2020-06-15 00:07:29,616 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:07:35,371 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:07:40,489 [main] INFO Facebook - Listing an item
-2020-06-15 00:07:41,118 [main] INFO Facebook - Item for Sell
-2020-06-15 00:07:55,925 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:07:56,479 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:07:58,722 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:09:54,892 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:09:59,277 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:10:04,401 [main] INFO Facebook - Listing an item
-2020-06-15 00:10:04,955 [main] INFO Facebook - Item for Sell
-2020-06-15 00:10:19,579 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:10:20,164 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:10:22,357 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:10:24,498 [main] INFO Facebook - Selecting Category
-2020-06-15 00:12:04,986 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:12:08,302 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:12:13,413 [main] INFO Facebook - Listing an item
-2020-06-15 00:12:13,750 [main] INFO Facebook - Item for Sell
-2020-06-15 00:12:28,511 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:12:29,020 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:12:31,254 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:12:33,375 [main] INFO Facebook - Selecting Category
-2020-06-15 00:12:40,571 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:12:45,737 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:12:53,115 [main] INFO Facebook - Setting Location
-2020-06-15 00:12:56,421 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:17:34,157 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:17:40,187 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:17:45,342 [main] INFO Facebook - Listing an item
-2020-06-15 00:17:45,676 [main] INFO Facebook - Item for Sell
-2020-06-15 00:18:00,662 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:18:01,233 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:18:01,488 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:18:03,669 [main] INFO Facebook - Selecting Category
-2020-06-15 00:18:10,841 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:18:16,167 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:18:23,593 [main] INFO Facebook - Setting Location
-2020-06-15 00:18:26,899 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:18:31,950 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:18:31,950 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:18:32,009 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:18:41,118 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:20:01,125 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:20:05,870 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:20:10,984 [main] INFO Facebook - Listing an item
-2020-06-15 00:20:11,560 [main] INFO Facebook - Item for Sell
-2020-06-15 00:20:26,139 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:20:26,635 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:20:26,845 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:20:29,003 [main] INFO Facebook - Selecting Category
-2020-06-15 00:20:36,217 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:20:41,249 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:20:48,663 [main] INFO Facebook - Setting Location
-2020-06-15 00:20:51,914 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:20:56,968 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:20:56,968 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:20:57,029 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:21:06,171 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:21:16,214 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:21:35,319 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:21:41,314 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:21:46,416 [main] INFO Facebook - Listing an item
-2020-06-15 00:21:47,021 [main] INFO Facebook - Item for Sell
-2020-06-15 00:22:01,622 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:22:02,206 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:22:02,413 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:22:04,611 [main] INFO Facebook - Selecting Category
-2020-06-15 00:22:11,836 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:22:16,940 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:22:24,369 [main] INFO Facebook - Setting Location
-2020-06-15 00:22:27,654 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:22:32,714 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:22:32,714 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:22:32,775 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:22:41,927 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:22:51,968 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:27:08,842 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:27:17,061 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:27:22,190 [main] INFO Facebook - Listing an item
-2020-06-15 00:27:22,807 [main] INFO Facebook - Item for Sell
-2020-06-15 00:27:37,446 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:27:37,970 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:27:38,197 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:27:40,347 [main] INFO Facebook - Selecting Category
-2020-06-15 00:27:47,545 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:27:52,653 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:28:00,081 [main] INFO Facebook - Setting Location
-2020-06-15 00:28:03,378 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:28:08,427 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:28:08,428 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:28:08,485 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:28:17,594 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:28:27,656 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:30:40,160 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:30:43,731 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:30:43,873 [main] INFO Facebook - Password has been entered
-2020-06-15 00:30:43,985 [main] INFO Facebook - Logging in...
-2020-06-15 00:30:50,256 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:30:55,367 [main] INFO Facebook - Listing an item
-2020-06-15 00:30:56,011 [main] INFO Facebook - Item for Sell
-2020-06-15 00:31:10,626 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:31:11,219 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:31:11,450 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:31:13,593 [main] INFO Facebook - Selecting Category
-2020-06-15 00:31:20,800 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:31:25,579 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:31:32,941 [main] INFO Facebook - Setting Location
-2020-06-15 00:31:36,207 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:31:41,258 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:31:41,259 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:31:41,323 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:31:50,515 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:32:00,556 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:34:18,436 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:34:22,055 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:34:22,176 [main] INFO Facebook - Password has been entered
-2020-06-15 00:34:22,317 [main] INFO Facebook - Logging in...
-2020-06-15 00:34:28,363 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:34:33,483 [main] INFO Facebook - Listing an item
-2020-06-15 00:34:34,017 [main] INFO Facebook - Item for Sell
-2020-06-15 00:34:48,825 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:34:49,406 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:36:40,316 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:36:44,086 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:36:49,203 [main] INFO Facebook - Listing an item
-2020-06-15 00:36:49,774 [main] INFO Facebook - Item for Sell
-2020-06-15 00:37:04,392 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:37:04,924 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:38:27,748 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:38:30,903 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:38:31,079 [main] INFO Facebook - Password has been entered
-2020-06-15 00:38:41,226 [main] INFO Facebook - Logging in...
-2020-06-15 00:40:34,420 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:40:37,781 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:40:37,948 [main] INFO Facebook - Password has been entered
-2020-06-15 00:40:38,092 [main] INFO Facebook - Logging in...
-2020-06-15 00:40:46,484 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:40:52,291 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:40:57,379 [main] INFO Facebook - Listing an item
-2020-06-15 00:40:57,742 [main] INFO Facebook - Item for Sell
-2020-06-15 00:41:12,355 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:41:12,903 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:41:13,132 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:41:15,270 [main] INFO Facebook - Selecting Category
-2020-06-15 00:41:22,475 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:41:27,662 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:41:35,696 [main] INFO Facebook - Setting Location
-2020-06-15 00:41:38,973 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:41:44,052 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:41:44,054 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:41:44,115 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:41:53,265 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:42:03,297 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:43:52,534 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:43:59,104 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:44:03,424 [main] INFO Facebook - Error Occure during execution. Please find the Error/Exception below 
-null
-2020-06-15 00:45:03,466 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:45:07,047 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:45:07,350 [main] INFO Facebook - Password has been entered
-2020-06-15 00:45:07,422 [main] INFO Facebook - Logging in...
-2020-06-15 00:45:15,726 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:45:18,973 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:45:24,096 [main] INFO Facebook - Listing an item
-2020-06-15 00:45:24,659 [main] INFO Facebook - Item for Sell
-2020-06-15 00:45:39,374 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:45:39,948 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:45:40,178 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:45:42,308 [main] INFO Facebook - Selecting Category
-2020-06-15 00:45:49,509 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:45:54,671 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:46:02,093 [main] INFO Facebook - Setting Location
-2020-06-15 00:46:05,348 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:46:10,421 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:46:10,421 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:46:10,480 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:46:19,635 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:46:29,712 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:52:51,486 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:52:55,030 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:52:55,185 [main] INFO Facebook - Password has been entered
-2020-06-15 00:52:55,279 [main] INFO Facebook - Logging in...
-2020-06-15 00:53:03,597 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:53:07,283 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:53:12,414 [main] INFO Facebook - Listing an item
-2020-06-15 00:53:12,962 [main] INFO Facebook - Item for Sell
-2020-06-15 00:53:27,776 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:53:28,295 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:53:28,518 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:53:30,691 [main] INFO Facebook - Selecting Category
-2020-06-15 00:53:37,914 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:53:43,044 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:53:50,463 [main] INFO Facebook - Setting Location
-2020-06-15 00:53:53,768 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:53:58,836 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:53:58,836 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:53:58,895 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:54:08,024 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:54:18,102 [main] INFO Facebook - Item has been deleted - Verified
-2020-06-15 00:55:51,390 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:55:54,757 [main] INFO Facebook - User Name has been entered
-2020-06-15 00:55:54,882 [main] INFO Facebook - Password has been entered
-2020-06-15 00:56:08,007 [main] INFO Facebook - Logging in...
-2020-06-15 00:56:20,208 [main] INFO Facebook - Initializing ChromeDriver..
-2020-06-15 00:56:25,425 [main] INFO Facebook - Clicking Market Place
-2020-06-15 00:56:30,529 [main] INFO Facebook - Listing an item
-2020-06-15 00:56:30,907 [main] INFO Facebook - Item for Sell
-2020-06-15 00:56:45,491 [main] INFO Facebook - Adding Item Photo
-2020-06-15 00:56:46,052 [main] INFO Facebook - Setting Item title as : Jordan Shoe 9
-2020-06-15 00:56:46,283 [main] INFO Facebook - Setting Item price as : 420
-2020-06-15 00:56:48,457 [main] INFO Facebook - Selecting Category
-2020-06-15 00:56:55,672 [main] INFO Facebook - Setting condition for Item
-2020-06-15 00:57:00,817 [main] INFO Facebook - Adding item description as : This is a brand new Shoe that I want to sell the spare one
-2020-06-15 00:57:08,266 [main] INFO Facebook - Setting Location
-2020-06-15 00:57:11,511 [main] INFO Facebook - Publishing Listing in Market place .......
-2020-06-15 00:57:16,568 [main] INFO Facebook - Verifying item title and price 
- Actual Item Title is : Jordan Shoe 9 vs. Expected Title is : Jordan Shoe 9
-2020-06-15 00:57:16,569 [main] INFO Facebook - 
- Actual Item Price is : $420 vs. Expected Price is : $420
-2020-06-15 00:57:16,628 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
-2020-06-15 00:57:25,756 [main] INFO Facebook - Verifying item is deleted...
-2020-06-15 00:57:35,796 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-19 17:47:48,871 [main] INFO Facebook - Deleting Item :: Jordan Shoe 9
+2020-06-19 17:47:58,015 [main] INFO Facebook - Verifying item is deleted...
+2020-06-19 17:48:08,082 [main] INFO Facebook - Item has been deleted - Verified
+2020-06-21 14:30:44,043 [main] INFO Facebook - Initializing ChromeDriver..

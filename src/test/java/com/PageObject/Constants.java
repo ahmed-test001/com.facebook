@@ -6,4 +6,5 @@ public class Constants {
 	static public final String itemPrice = "420";
 	final static public String desc = "This is a brand new Shoe that I want to sell the spare one";
 	static final public String title = "Facebook Marketplace | Facebook";
+	static final public String option = "Clothing & Accessories";
 }

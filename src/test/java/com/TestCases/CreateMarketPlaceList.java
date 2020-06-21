@@ -1,5 +1,4 @@
 package com.TestCases;
-
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -38,6 +37,7 @@ public class CreateMarketPlaceList extends CommonClass {
 	public void createMarketPlaceItemWithCookies() throws Exception {
 		try {		
 			injectCookies("cookie.data");
+			logger.info("Bypass Login Credentials..");
 			String titel = driver.getTitle();
 			Assert.assertEquals(driver.getTitle(), titel);
 			dbp.getMrktPl();

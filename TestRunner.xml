@@ -7,10 +7,10 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.TestCases.CreateMarketPlaceList">
-				<!-- <methods>
+				<methods>
 					<include name="collectCookiesWithLogin" />
 					<include name="createMarketPlaceItemWithCookies" />
-				</methods> -->
+				</methods>
 			</class>
 		</classes>
 	</test>
